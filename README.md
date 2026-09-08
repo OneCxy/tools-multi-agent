@@ -2,7 +2,7 @@
 
 基于多智能体与 RAG 的数控刀具问询系统，面向刀具选型、参数推荐、型号解释和加工故障诊断等场景。系统支持流式问答、知识库检索、历史会话、销售订单咨询及附近供应商查询。
 
-项目标识：`tools-multi-agent`
+项目：`tools-multi-agent`
 
 ## 主要功能
 
@@ -72,19 +72,14 @@ npm install
 
 ## 配置环境变量
 
-复制环境变量模板，并按实际服务填写模型、Embedding 与地图服务配置：
-
 ```powershell
 Copy-Item backend/knowledge_new/.env.example backend/knowledge_new/.env
 Copy-Item backend/app/.env.example backend/app/.env
 ```
 
-请勿将包含真实密钥的 `.env` 提交到仓库。
-
 
 ## 快速启动
 
-按以下顺序分别在独立终端中启动。
 
 ### 1. 知识库后端
 
