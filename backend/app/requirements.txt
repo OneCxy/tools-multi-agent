@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+httpx
+openai-agents
+mcp>=1.19.0,<2
+pystun3
+pydantic
+pydantic-settings
+typing-extensions

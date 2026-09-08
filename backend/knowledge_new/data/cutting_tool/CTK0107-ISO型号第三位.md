@@ -1,0 +1,15 @@
+# ISO型号第三位
+
+## 结论
+表示尺寸和形位公差等级，具体数值应查标准或厂家目录。
+
+## 适用条件
+适用于车削、镗削相关判断；具体产品需核对厂商现行目录。
+
+## 说明
+遇到不能确定的代码，应要求用户提供品牌、完整型号或刀片照片，不能根据局部字符强行推断。
+
+## 来源
+- Seco Tools《ISO 13399 Glossary of Terms in Tool Catalogues》，ISO 13399章节；https://www.secotools.com/article/iso_13399_glossary_of_terms_in_tool_catalogues?language=en
+- Tungaloy《General Catalog 2023–2024, Metric》，Grade、Insert及User's Guide章节；https://tungaloy.com/publications/catalog/
+- ZCC-CT《Metric Catalog 2024–2025》，Turning Info、Turning Inserts及General Tech Info章节；https://www.zccusa.com/catalogdownload

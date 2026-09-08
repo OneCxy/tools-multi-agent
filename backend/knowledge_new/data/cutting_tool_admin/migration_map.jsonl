@@ -1,0 +1,700 @@
+{"original_id":"CTK-0001","original_path":"01_基础概念/CTK-0001_可转位刀片是什么.md","output_path":"CTK0001-可转位刀片是什么.md"}
+{"original_id":"CTK-0002","original_path":"01_基础概念/CTK-0002_可转位刀片对选型的影响.md","output_path":"CTK0002-可转位刀片对选型的影响.md"}
+{"original_id":"CTK-0003","original_path":"01_基础概念/CTK-0003_刀片材质是什么.md","output_path":"CTK0003-刀片材质是什么.md"}
+{"original_id":"CTK-0004","original_path":"01_基础概念/CTK-0004_刀片材质对选型的影响.md","output_path":"CTK0004-刀片材质对选型的影响.md"}
+{"original_id":"CTK-0005","original_path":"01_基础概念/CTK-0005_断屑槽是什么.md","output_path":"CTK0005-断屑槽是什么.md"}
+{"original_id":"CTK-0006","original_path":"01_基础概念/CTK-0006_断屑槽对选型的影响.md","output_path":"CTK0006-断屑槽对选型的影响.md"}
+{"original_id":"CTK-0007","original_path":"01_基础概念/CTK-0007_刀尖半径是什么.md","output_path":"CTK0007-刀尖半径是什么.md"}
+{"original_id":"CTK-0008","original_path":"01_基础概念/CTK-0008_刀尖半径对选型的影响.md","output_path":"CTK0008-刀尖半径对选型的影响.md"}
+{"original_id":"CTK-0009","original_path":"01_基础概念/CTK-0009_主偏角是什么.md","output_path":"CTK0009-主偏角是什么.md"}
+{"original_id":"CTK-0010","original_path":"01_基础概念/CTK-0010_主偏角对选型的影响.md","output_path":"CTK0010-主偏角对选型的影响.md"}
+{"original_id":"CTK-0011","original_path":"01_基础概念/CTK-0011_前角是什么.md","output_path":"CTK0011-前角是什么.md"}
+{"original_id":"CTK-0012","original_path":"01_基础概念/CTK-0012_前角对选型的影响.md","output_path":"CTK0012-前角对选型的影响.md"}
+{"original_id":"CTK-0013","original_path":"01_基础概念/CTK-0013_后角是什么.md","output_path":"CTK0013-后角是什么.md"}
+{"original_id":"CTK-0014","original_path":"01_基础概念/CTK-0014_后角对选型的影响.md","output_path":"CTK0014-后角对选型的影响.md"}
+{"original_id":"CTK-0015","original_path":"01_基础概念/CTK-0015_刃口钝化是什么.md","output_path":"CTK0015-刃口钝化是什么.md"}
+{"original_id":"CTK-0016","original_path":"01_基础概念/CTK-0016_刃口钝化对选型的影响.md","output_path":"CTK0016-刃口钝化对选型的影响.md"}
+{"original_id":"CTK-0017","original_path":"01_基础概念/CTK-0017_修光刃是什么.md","output_path":"CTK0017-修光刃是什么.md"}
+{"original_id":"CTK-0018","original_path":"01_基础概念/CTK-0018_修光刃对选型的影响.md","output_path":"CTK0018-修光刃对选型的影响.md"}
+{"original_id":"CTK-0019","original_path":"01_基础概念/CTK-0019_刀具悬伸是什么.md","output_path":"CTK0019-刀具悬伸是什么.md"}
+{"original_id":"CTK-0020","original_path":"01_基础概念/CTK-0020_刀具悬伸对选型的影响.md","output_path":"CTK0020-刀具悬伸对选型的影响.md"}
+{"original_id":"CTK-0021","original_path":"01_基础概念/CTK-0021_连续切削是什么.md","output_path":"CTK0021-连续切削是什么.md"}
+{"original_id":"CTK-0022","original_path":"01_基础概念/CTK-0022_连续切削对选型的影响.md","output_path":"CTK0022-连续切削对选型的影响.md"}
+{"original_id":"CTK-0023","original_path":"01_基础概念/CTK-0023_断续切削是什么.md","output_path":"CTK0023-断续切削是什么.md"}
+{"original_id":"CTK-0024","original_path":"01_基础概念/CTK-0024_断续切削对选型的影响.md","output_path":"CTK0024-断续切削对选型的影响.md"}
+{"original_id":"CTK-0025","original_path":"01_基础概念/CTK-0025_积屑瘤是什么.md","output_path":"CTK0025-积屑瘤是什么.md"}
+{"original_id":"CTK-0026","original_path":"01_基础概念/CTK-0026_积屑瘤对选型的影响.md","output_path":"CTK0026-积屑瘤对选型的影响.md"}
+{"original_id":"CTK-0027","original_path":"01_基础概念/CTK-0027_后刀面磨损是什么.md","output_path":"CTK0027-后刀面磨损是什么.md"}
+{"original_id":"CTK-0028","original_path":"01_基础概念/CTK-0028_后刀面磨损对选型的影响.md","output_path":"CTK0028-后刀面磨损对选型的影响.md"}
+{"original_id":"CTK-0029","original_path":"01_基础概念/CTK-0029_月牙洼磨损是什么.md","output_path":"CTK0029-月牙洼磨损是什么.md"}
+{"original_id":"CTK-0030","original_path":"01_基础概念/CTK-0030_月牙洼磨损对选型的影响.md","output_path":"CTK0030-月牙洼磨损对选型的影响.md"}
+{"original_id":"CTK-0031","original_path":"01_基础概念/CTK-0031_沟槽磨损是什么.md","output_path":"CTK0031-沟槽磨损是什么.md"}
+{"original_id":"CTK-0032","original_path":"01_基础概念/CTK-0032_沟槽磨损对选型的影响.md","output_path":"CTK0032-沟槽磨损对选型的影响.md"}
+{"original_id":"CTK-0033","original_path":"01_基础概念/CTK-0033_热裂纹是什么.md","output_path":"CTK0033-热裂纹是什么.md"}
+{"original_id":"CTK-0034","original_path":"01_基础概念/CTK-0034_热裂纹对选型的影响.md","output_path":"CTK0034-热裂纹对选型的影响.md"}
+{"original_id":"CTK-0035","original_path":"01_基础概念/CTK-0035_塑性变形是什么.md","output_path":"CTK0035-塑性变形是什么.md"}
+{"original_id":"CTK-0036","original_path":"01_基础概念/CTK-0036_塑性变形对选型的影响.md","output_path":"CTK0036-塑性变形对选型的影响.md"}
+{"original_id":"CTK-0037","original_path":"01_基础概念/CTK-0037_崩刃是什么.md","output_path":"CTK0037-崩刃是什么.md"}
+{"original_id":"CTK-0038","original_path":"01_基础概念/CTK-0038_崩刃对选型的影响.md","output_path":"CTK0038-崩刃对选型的影响.md"}
+{"original_id":"CTK-0039","original_path":"01_基础概念/CTK-0039_切削速度是什么.md","output_path":"CTK0039-切削速度是什么.md"}
+{"original_id":"CTK-0040","original_path":"01_基础概念/CTK-0040_切削速度对选型的影响.md","output_path":"CTK0040-切削速度对选型的影响.md"}
+{"original_id":"CTK-0041","original_path":"01_基础概念/CTK-0041_每转进给是什么.md","output_path":"CTK0041-每转进给是什么.md"}
+{"original_id":"CTK-0042","original_path":"01_基础概念/CTK-0042_每转进给对选型的影响.md","output_path":"CTK0042-每转进给对选型的影响.md"}
+{"original_id":"CTK-0043","original_path":"01_基础概念/CTK-0043_每齿进给是什么.md","output_path":"CTK0043-每齿进给是什么.md"}
+{"original_id":"CTK-0044","original_path":"01_基础概念/CTK-0044_每齿进给对选型的影响.md","output_path":"CTK0044-每齿进给对选型的影响.md"}
+{"original_id":"CTK-0045","original_path":"01_基础概念/CTK-0045_切削深度是什么.md","output_path":"CTK0045-切削深度是什么.md"}
+{"original_id":"CTK-0046","original_path":"01_基础概念/CTK-0046_切削深度对选型的影响.md","output_path":"CTK0046-切削深度对选型的影响.md"}
+{"original_id":"CTK-0047","original_path":"01_基础概念/CTK-0047_冷却液是什么.md","output_path":"CTK0047-冷却液是什么.md"}
+{"original_id":"CTK-0048","original_path":"01_基础概念/CTK-0048_冷却液对选型的影响.md","output_path":"CTK0048-冷却液对选型的影响.md"}
+{"original_id":"CTK-0049","original_path":"01_基础概念/CTK-0049_刀具寿命是什么.md","output_path":"CTK0049-刀具寿命是什么.md"}
+{"original_id":"CTK-0050","original_path":"01_基础概念/CTK-0050_刀具寿命对选型的影响.md","output_path":"CTK0050-刀具寿命对选型的影响.md"}
+{"original_id":"CTK-0051","original_path":"02_ISO型号与几何/CTK-0051_ISO刀片形状代码C.md","output_path":"CTK0051-ISO刀片形状代码C.md"}
+{"original_id":"CTK-0052","original_path":"02_ISO型号与几何/CTK-0052_80°菱形刀片的强度特点.md","output_path":"CTK0052-80°菱形刀片的强度特点.md"}
+{"original_id":"CTK-0053","original_path":"02_ISO型号与几何/CTK-0053_80°菱形刀片的应用边界.md","output_path":"CTK0053-80°菱形刀片的应用边界.md"}
+{"original_id":"CTK-0054","original_path":"02_ISO型号与几何/CTK-0054_ISO刀片形状代码D.md","output_path":"CTK0054-ISO刀片形状代码D.md"}
+{"original_id":"CTK-0055","original_path":"02_ISO型号与几何/CTK-0055_55°菱形刀片的强度特点.md","output_path":"CTK0055-55°菱形刀片的强度特点.md"}
+{"original_id":"CTK-0056","original_path":"02_ISO型号与几何/CTK-0056_55°菱形刀片的应用边界.md","output_path":"CTK0056-55°菱形刀片的应用边界.md"}
+{"original_id":"CTK-0057","original_path":"02_ISO型号与几何/CTK-0057_ISO刀片形状代码V.md","output_path":"CTK0057-ISO刀片形状代码V.md"}
+{"original_id":"CTK-0058","original_path":"02_ISO型号与几何/CTK-0058_35°菱形刀片的强度特点.md","output_path":"CTK0058-35°菱形刀片的强度特点.md"}
+{"original_id":"CTK-0059","original_path":"02_ISO型号与几何/CTK-0059_35°菱形刀片的应用边界.md","output_path":"CTK0059-35°菱形刀片的应用边界.md"}
+{"original_id":"CTK-0060","original_path":"02_ISO型号与几何/CTK-0060_ISO刀片形状代码T.md","output_path":"CTK0060-ISO刀片形状代码T.md"}
+{"original_id":"CTK-0061","original_path":"02_ISO型号与几何/CTK-0061_60°三角形刀片的强度特点.md","output_path":"CTK0061-60°三角形刀片的强度特点.md"}
+{"original_id":"CTK-0062","original_path":"02_ISO型号与几何/CTK-0062_60°三角形刀片的应用边界.md","output_path":"CTK0062-60°三角形刀片的应用边界.md"}
+{"original_id":"CTK-0063","original_path":"02_ISO型号与几何/CTK-0063_ISO刀片形状代码S.md","output_path":"CTK0063-ISO刀片形状代码S.md"}
+{"original_id":"CTK-0064","original_path":"02_ISO型号与几何/CTK-0064_90°正方形刀片的强度特点.md","output_path":"CTK0064-90°正方形刀片的强度特点.md"}
+{"original_id":"CTK-0065","original_path":"02_ISO型号与几何/CTK-0065_90°正方形刀片的应用边界.md","output_path":"CTK0065-90°正方形刀片的应用边界.md"}
+{"original_id":"CTK-0066","original_path":"02_ISO型号与几何/CTK-0066_ISO刀片形状代码R.md","output_path":"CTK0066-ISO刀片形状代码R.md"}
+{"original_id":"CTK-0067","original_path":"02_ISO型号与几何/CTK-0067_圆形刀片的强度特点.md","output_path":"CTK0067-圆形刀片的强度特点.md"}
+{"original_id":"CTK-0068","original_path":"02_ISO型号与几何/CTK-0068_圆形刀片的应用边界.md","output_path":"CTK0068-圆形刀片的应用边界.md"}
+{"original_id":"CTK-0069","original_path":"02_ISO型号与几何/CTK-0069_ISO刀片形状代码W.md","output_path":"CTK0069-ISO刀片形状代码W.md"}
+{"original_id":"CTK-0070","original_path":"02_ISO型号与几何/CTK-0070_80°三角圆弧形（Trigon）刀片的强度特点.md","output_path":"CTK0070-80°三角圆弧形（Trigon）刀片的强度特点.md"}
+{"original_id":"CTK-0071","original_path":"02_ISO型号与几何/CTK-0071_80°三角圆弧形（Trigon）刀片的应用边界.md","output_path":"CTK0071-80°三角圆弧形（Trigon）刀片的应用边界.md"}
+{"original_id":"CTK-0072","original_path":"02_ISO型号与几何/CTK-0072_ISO刀片形状代码E.md","output_path":"CTK0072-ISO刀片形状代码E.md"}
+{"original_id":"CTK-0073","original_path":"02_ISO型号与几何/CTK-0073_75°菱形刀片的强度特点.md","output_path":"CTK0073-75°菱形刀片的强度特点.md"}
+{"original_id":"CTK-0074","original_path":"02_ISO型号与几何/CTK-0074_75°菱形刀片的应用边界.md","output_path":"CTK0074-75°菱形刀片的应用边界.md"}
+{"original_id":"CTK-0075","original_path":"02_ISO型号与几何/CTK-0075_ISO刀片形状代码M.md","output_path":"CTK0075-ISO刀片形状代码M.md"}
+{"original_id":"CTK-0076","original_path":"02_ISO型号与几何/CTK-0076_86°菱形刀片的强度特点.md","output_path":"CTK0076-86°菱形刀片的强度特点.md"}
+{"original_id":"CTK-0077","original_path":"02_ISO型号与几何/CTK-0077_86°菱形刀片的应用边界.md","output_path":"CTK0077-86°菱形刀片的应用边界.md"}
+{"original_id":"CTK-0078","original_path":"02_ISO型号与几何/CTK-0078_ISO刀片形状代码P.md","output_path":"CTK0078-ISO刀片形状代码P.md"}
+{"original_id":"CTK-0079","original_path":"02_ISO型号与几何/CTK-0079_108°五边形刀片的强度特点.md","output_path":"CTK0079-108°五边形刀片的强度特点.md"}
+{"original_id":"CTK-0080","original_path":"02_ISO型号与几何/CTK-0080_108°五边形刀片的应用边界.md","output_path":"CTK0080-108°五边形刀片的应用边界.md"}
+{"original_id":"CTK-0081","original_path":"02_ISO型号与几何/CTK-0081_ISO刀片形状代码H.md","output_path":"CTK0081-ISO刀片形状代码H.md"}
+{"original_id":"CTK-0082","original_path":"02_ISO型号与几何/CTK-0082_120°六边形刀片的强度特点.md","output_path":"CTK0082-120°六边形刀片的强度特点.md"}
+{"original_id":"CTK-0083","original_path":"02_ISO型号与几何/CTK-0083_120°六边形刀片的应用边界.md","output_path":"CTK0083-120°六边形刀片的应用边界.md"}
+{"original_id":"CTK-0084","original_path":"02_ISO型号与几何/CTK-0084_ISO刀片形状代码O.md","output_path":"CTK0084-ISO刀片形状代码O.md"}
+{"original_id":"CTK-0085","original_path":"02_ISO型号与几何/CTK-0085_135°八边形刀片的强度特点.md","output_path":"CTK0085-135°八边形刀片的强度特点.md"}
+{"original_id":"CTK-0086","original_path":"02_ISO型号与几何/CTK-0086_135°八边形刀片的应用边界.md","output_path":"CTK0086-135°八边形刀片的应用边界.md"}
+{"original_id":"CTK-0087","original_path":"02_ISO型号与几何/CTK-0087_ISO刀片后角代码N.md","output_path":"CTK0087-ISO刀片后角代码N.md"}
+{"original_id":"CTK-0088","original_path":"02_ISO型号与几何/CTK-0088_后角0°的选型意义.md","output_path":"CTK0088-后角0°的选型意义.md"}
+{"original_id":"CTK-0089","original_path":"02_ISO型号与几何/CTK-0089_ISO刀片后角代码A.md","output_path":"CTK0089-ISO刀片后角代码A.md"}
+{"original_id":"CTK-0090","original_path":"02_ISO型号与几何/CTK-0090_后角3°的选型意义.md","output_path":"CTK0090-后角3°的选型意义.md"}
+{"original_id":"CTK-0091","original_path":"02_ISO型号与几何/CTK-0091_ISO刀片后角代码B.md","output_path":"CTK0091-ISO刀片后角代码B.md"}
+{"original_id":"CTK-0092","original_path":"02_ISO型号与几何/CTK-0092_后角5°的选型意义.md","output_path":"CTK0092-后角5°的选型意义.md"}
+{"original_id":"CTK-0093","original_path":"02_ISO型号与几何/CTK-0093_ISO刀片后角代码C.md","output_path":"CTK0093-ISO刀片后角代码C.md"}
+{"original_id":"CTK-0094","original_path":"02_ISO型号与几何/CTK-0094_后角7°的选型意义.md","output_path":"CTK0094-后角7°的选型意义.md"}
+{"original_id":"CTK-0095","original_path":"02_ISO型号与几何/CTK-0095_ISO刀片后角代码P.md","output_path":"CTK0095-ISO刀片后角代码P.md"}
+{"original_id":"CTK-0096","original_path":"02_ISO型号与几何/CTK-0096_后角11°的选型意义.md","output_path":"CTK0096-后角11°的选型意义.md"}
+{"original_id":"CTK-0097","original_path":"02_ISO型号与几何/CTK-0097_ISO刀片后角代码D.md","output_path":"CTK0097-ISO刀片后角代码D.md"}
+{"original_id":"CTK-0098","original_path":"02_ISO型号与几何/CTK-0098_后角15°的选型意义.md","output_path":"CTK0098-后角15°的选型意义.md"}
+{"original_id":"CTK-0099","original_path":"02_ISO型号与几何/CTK-0099_ISO刀片后角代码E.md","output_path":"CTK0099-ISO刀片后角代码E.md"}
+{"original_id":"CTK-0100","original_path":"02_ISO型号与几何/CTK-0100_后角20°的选型意义.md","output_path":"CTK0100-后角20°的选型意义.md"}
+{"original_id":"CTK-0101","original_path":"02_ISO型号与几何/CTK-0101_ISO刀片后角代码F.md","output_path":"CTK0101-ISO刀片后角代码F.md"}
+{"original_id":"CTK-0102","original_path":"02_ISO型号与几何/CTK-0102_后角25°的选型意义.md","output_path":"CTK0102-后角25°的选型意义.md"}
+{"original_id":"CTK-0103","original_path":"02_ISO型号与几何/CTK-0103_ISO刀片后角代码G.md","output_path":"CTK0103-ISO刀片后角代码G.md"}
+{"original_id":"CTK-0104","original_path":"02_ISO型号与几何/CTK-0104_后角30°的选型意义.md","output_path":"CTK0104-后角30°的选型意义.md"}
+{"original_id":"CTK-0105","original_path":"02_ISO型号与几何/CTK-0105_ISO型号第一位.md","output_path":"CTK0105-ISO型号第一位.md"}
+{"original_id":"CTK-0106","original_path":"02_ISO型号与几何/CTK-0106_ISO型号第二位.md","output_path":"CTK0106-ISO型号第二位.md"}
+{"original_id":"CTK-0107","original_path":"02_ISO型号与几何/CTK-0107_ISO型号第三位.md","output_path":"CTK0107-ISO型号第三位.md"}
+{"original_id":"CTK-0108","original_path":"02_ISO型号与几何/CTK-0108_ISO型号第四位.md","output_path":"CTK0108-ISO型号第四位.md"}
+{"original_id":"CTK-0109","original_path":"02_ISO型号与几何/CTK-0109_刀片尺寸代码.md","output_path":"CTK0109-刀片尺寸代码.md"}
+{"original_id":"CTK-0110","original_path":"02_ISO型号与几何/CTK-0110_刀片厚度代码.md","output_path":"CTK0110-刀片厚度代码.md"}
+{"original_id":"CTK-0111","original_path":"02_ISO型号与几何/CTK-0111_刀尖半径代码.md","output_path":"CTK0111-刀尖半径代码.md"}
+{"original_id":"CTK-0112","original_path":"02_ISO型号与几何/CTK-0112_左右手代码.md","output_path":"CTK0112-左右手代码.md"}
+{"original_id":"CTK-0113","original_path":"02_ISO型号与几何/CTK-0113_槽型后缀.md","output_path":"CTK0113-槽型后缀.md"}
+{"original_id":"CTK-0114","original_path":"02_ISO型号与几何/CTK-0114_牌号后缀.md","output_path":"CTK0114-牌号后缀.md"}
+{"original_id":"CTK-0115","original_path":"02_ISO型号与几何/CTK-0115_公制与英制型号.md","output_path":"CTK0115-公制与英制型号.md"}
+{"original_id":"CTK-0116","original_path":"02_ISO型号与几何/CTK-0116_刀片与刀杆匹配.md","output_path":"CTK0116-刀片与刀杆匹配.md"}
+{"original_id":"CTK-0117","original_path":"02_ISO型号与几何/CTK-0117_负型刀片.md","output_path":"CTK0117-负型刀片.md"}
+{"original_id":"CTK-0118","original_path":"02_ISO型号与几何/CTK-0118_正型刀片.md","output_path":"CTK0118-正型刀片.md"}
+{"original_id":"CTK-0119","original_path":"02_ISO型号与几何/CTK-0119_ISO代码与商品号.md","output_path":"CTK0119-ISO代码与商品号.md"}
+{"original_id":"CTK-0120","original_path":"02_ISO型号与几何/CTK-0120_型号识别顺序.md","output_path":"CTK0120-型号识别顺序.md"}
+{"original_id":"CTK-0121","original_path":"03_工件材料分类/CTK-0121_ISO_P组钢：定义.md","output_path":"CTK0121-ISO P组钢：定义.md"}
+{"original_id":"CTK-0122","original_path":"03_工件材料分类/CTK-0122_ISO_P组钢：选型第一问.md","output_path":"CTK0122-ISO P组钢：选型第一问.md"}
+{"original_id":"CTK-0123","original_path":"03_工件材料分类/CTK-0123_ISO_P组钢：主要加工特点.md","output_path":"CTK0123-ISO P组钢：主要加工特点.md"}
+{"original_id":"CTK-0124","original_path":"03_工件材料分类/CTK-0124_ISO_P组钢：常见失效风险.md","output_path":"CTK0124-ISO P组钢：常见失效风险.md"}
+{"original_id":"CTK-0125","original_path":"03_工件材料分类/CTK-0125_ISO_P组钢：槽型选择.md","output_path":"CTK0125-ISO P组钢：槽型选择.md"}
+{"original_id":"CTK-0126","original_path":"03_工件材料分类/CTK-0126_ISO_P组钢：材质选择.md","output_path":"CTK0126-ISO P组钢：材质选择.md"}
+{"original_id":"CTK-0127","original_path":"03_工件材料分类/CTK-0127_ISO_P组钢：切削速度判断.md","output_path":"CTK0127-ISO P组钢：切削速度判断.md"}
+{"original_id":"CTK-0128","original_path":"03_工件材料分类/CTK-0128_ISO_P组钢：进给判断.md","output_path":"CTK0128-ISO P组钢：进给判断.md"}
+{"original_id":"CTK-0129","original_path":"03_工件材料分类/CTK-0129_ISO_P组钢：切深判断.md","output_path":"CTK0129-ISO P组钢：切深判断.md"}
+{"original_id":"CTK-0130","original_path":"03_工件材料分类/CTK-0130_ISO_P组钢：冷却判断.md","output_path":"CTK0130-ISO P组钢：冷却判断.md"}
+{"original_id":"CTK-0131","original_path":"03_工件材料分类/CTK-0131_ISO_P组钢：参数记录字段.md","output_path":"CTK0131-ISO P组钢：参数记录字段.md"}
+{"original_id":"CTK-0132","original_path":"03_工件材料分类/CTK-0132_ISO_P组钢：问答边界.md","output_path":"CTK0132-ISO P组钢：问答边界.md"}
+{"original_id":"CTK-0133","original_path":"03_工件材料分类/CTK-0133_ISO_M组不锈钢：定义.md","output_path":"CTK0133-ISO M组不锈钢：定义.md"}
+{"original_id":"CTK-0134","original_path":"03_工件材料分类/CTK-0134_ISO_M组不锈钢：选型第一问.md","output_path":"CTK0134-ISO M组不锈钢：选型第一问.md"}
+{"original_id":"CTK-0135","original_path":"03_工件材料分类/CTK-0135_ISO_M组不锈钢：主要加工特点.md","output_path":"CTK0135-ISO M组不锈钢：主要加工特点.md"}
+{"original_id":"CTK-0136","original_path":"03_工件材料分类/CTK-0136_ISO_M组不锈钢：常见失效风险.md","output_path":"CTK0136-ISO M组不锈钢：常见失效风险.md"}
+{"original_id":"CTK-0137","original_path":"03_工件材料分类/CTK-0137_ISO_M组不锈钢：槽型选择.md","output_path":"CTK0137-ISO M组不锈钢：槽型选择.md"}
+{"original_id":"CTK-0138","original_path":"03_工件材料分类/CTK-0138_ISO_M组不锈钢：材质选择.md","output_path":"CTK0138-ISO M组不锈钢：材质选择.md"}
+{"original_id":"CTK-0139","original_path":"03_工件材料分类/CTK-0139_ISO_M组不锈钢：切削速度判断.md","output_path":"CTK0139-ISO M组不锈钢：切削速度判断.md"}
+{"original_id":"CTK-0140","original_path":"03_工件材料分类/CTK-0140_ISO_M组不锈钢：进给判断.md","output_path":"CTK0140-ISO M组不锈钢：进给判断.md"}
+{"original_id":"CTK-0141","original_path":"03_工件材料分类/CTK-0141_ISO_M组不锈钢：切深判断.md","output_path":"CTK0141-ISO M组不锈钢：切深判断.md"}
+{"original_id":"CTK-0142","original_path":"03_工件材料分类/CTK-0142_ISO_M组不锈钢：冷却判断.md","output_path":"CTK0142-ISO M组不锈钢：冷却判断.md"}
+{"original_id":"CTK-0143","original_path":"03_工件材料分类/CTK-0143_ISO_M组不锈钢：参数记录字段.md","output_path":"CTK0143-ISO M组不锈钢：参数记录字段.md"}
+{"original_id":"CTK-0144","original_path":"03_工件材料分类/CTK-0144_ISO_M组不锈钢：问答边界.md","output_path":"CTK0144-ISO M组不锈钢：问答边界.md"}
+{"original_id":"CTK-0145","original_path":"03_工件材料分类/CTK-0145_ISO_K组铸铁：定义.md","output_path":"CTK0145-ISO K组铸铁：定义.md"}
+{"original_id":"CTK-0146","original_path":"03_工件材料分类/CTK-0146_ISO_K组铸铁：选型第一问.md","output_path":"CTK0146-ISO K组铸铁：选型第一问.md"}
+{"original_id":"CTK-0147","original_path":"03_工件材料分类/CTK-0147_ISO_K组铸铁：主要加工特点.md","output_path":"CTK0147-ISO K组铸铁：主要加工特点.md"}
+{"original_id":"CTK-0148","original_path":"03_工件材料分类/CTK-0148_ISO_K组铸铁：常见失效风险.md","output_path":"CTK0148-ISO K组铸铁：常见失效风险.md"}
+{"original_id":"CTK-0149","original_path":"03_工件材料分类/CTK-0149_ISO_K组铸铁：槽型选择.md","output_path":"CTK0149-ISO K组铸铁：槽型选择.md"}
+{"original_id":"CTK-0150","original_path":"03_工件材料分类/CTK-0150_ISO_K组铸铁：材质选择.md","output_path":"CTK0150-ISO K组铸铁：材质选择.md"}
+{"original_id":"CTK-0151","original_path":"03_工件材料分类/CTK-0151_ISO_K组铸铁：切削速度判断.md","output_path":"CTK0151-ISO K组铸铁：切削速度判断.md"}
+{"original_id":"CTK-0152","original_path":"03_工件材料分类/CTK-0152_ISO_K组铸铁：进给判断.md","output_path":"CTK0152-ISO K组铸铁：进给判断.md"}
+{"original_id":"CTK-0153","original_path":"03_工件材料分类/CTK-0153_ISO_K组铸铁：切深判断.md","output_path":"CTK0153-ISO K组铸铁：切深判断.md"}
+{"original_id":"CTK-0154","original_path":"03_工件材料分类/CTK-0154_ISO_K组铸铁：冷却判断.md","output_path":"CTK0154-ISO K组铸铁：冷却判断.md"}
+{"original_id":"CTK-0155","original_path":"03_工件材料分类/CTK-0155_ISO_K组铸铁：参数记录字段.md","output_path":"CTK0155-ISO K组铸铁：参数记录字段.md"}
+{"original_id":"CTK-0156","original_path":"03_工件材料分类/CTK-0156_ISO_K组铸铁：问答边界.md","output_path":"CTK0156-ISO K组铸铁：问答边界.md"}
+{"original_id":"CTK-0157","original_path":"03_工件材料分类/CTK-0157_ISO_N组有色金属及非铁材料：定义.md","output_path":"CTK0157-ISO N组有色金属及非铁材料：定义.md"}
+{"original_id":"CTK-0158","original_path":"03_工件材料分类/CTK-0158_ISO_N组有色金属及非铁材料：选型第一问.md","output_path":"CTK0158-ISO N组有色金属及非铁材料：选型第一问.md"}
+{"original_id":"CTK-0159","original_path":"03_工件材料分类/CTK-0159_ISO_N组有色金属及非铁材料：主要加工特点.md","output_path":"CTK0159-ISO N组有色金属及非铁材料：主要加工特点.md"}
+{"original_id":"CTK-0160","original_path":"03_工件材料分类/CTK-0160_ISO_N组有色金属及非铁材料：常见失效风险.md","output_path":"CTK0160-ISO N组有色金属及非铁材料：常见失效风险.md"}
+{"original_id":"CTK-0161","original_path":"03_工件材料分类/CTK-0161_ISO_N组有色金属及非铁材料：槽型选择.md","output_path":"CTK0161-ISO N组有色金属及非铁材料：槽型选择.md"}
+{"original_id":"CTK-0162","original_path":"03_工件材料分类/CTK-0162_ISO_N组有色金属及非铁材料：材质选择.md","output_path":"CTK0162-ISO N组有色金属及非铁材料：材质选择.md"}
+{"original_id":"CTK-0163","original_path":"03_工件材料分类/CTK-0163_ISO_N组有色金属及非铁材料：切削速度判断.md","output_path":"CTK0163-ISO N组有色金属及非铁材料：切削速度判断.md"}
+{"original_id":"CTK-0164","original_path":"03_工件材料分类/CTK-0164_ISO_N组有色金属及非铁材料：进给判断.md","output_path":"CTK0164-ISO N组有色金属及非铁材料：进给判断.md"}
+{"original_id":"CTK-0165","original_path":"03_工件材料分类/CTK-0165_ISO_N组有色金属及非铁材料：切深判断.md","output_path":"CTK0165-ISO N组有色金属及非铁材料：切深判断.md"}
+{"original_id":"CTK-0166","original_path":"03_工件材料分类/CTK-0166_ISO_N组有色金属及非铁材料：冷却判断.md","output_path":"CTK0166-ISO N组有色金属及非铁材料：冷却判断.md"}
+{"original_id":"CTK-0167","original_path":"03_工件材料分类/CTK-0167_ISO_N组有色金属及非铁材料：参数记录字段.md","output_path":"CTK0167-ISO N组有色金属及非铁材料：参数记录字段.md"}
+{"original_id":"CTK-0168","original_path":"03_工件材料分类/CTK-0168_ISO_N组有色金属及非铁材料：问答边界.md","output_path":"CTK0168-ISO N组有色金属及非铁材料：问答边界.md"}
+{"original_id":"CTK-0169","original_path":"03_工件材料分类/CTK-0169_ISO_S组高温合金和钛合金：定义.md","output_path":"CTK0169-ISO S组高温合金和钛合金：定义.md"}
+{"original_id":"CTK-0170","original_path":"03_工件材料分类/CTK-0170_ISO_S组高温合金和钛合金：选型第一问.md","output_path":"CTK0170-ISO S组高温合金和钛合金：选型第一问.md"}
+{"original_id":"CTK-0171","original_path":"03_工件材料分类/CTK-0171_ISO_S组高温合金和钛合金：主要加工特点.md","output_path":"CTK0171-ISO S组高温合金和钛合金：主要加工特点.md"}
+{"original_id":"CTK-0172","original_path":"03_工件材料分类/CTK-0172_ISO_S组高温合金和钛合金：常见失效风险.md","output_path":"CTK0172-ISO S组高温合金和钛合金：常见失效风险.md"}
+{"original_id":"CTK-0173","original_path":"03_工件材料分类/CTK-0173_ISO_S组高温合金和钛合金：槽型选择.md","output_path":"CTK0173-ISO S组高温合金和钛合金：槽型选择.md"}
+{"original_id":"CTK-0174","original_path":"03_工件材料分类/CTK-0174_ISO_S组高温合金和钛合金：材质选择.md","output_path":"CTK0174-ISO S组高温合金和钛合金：材质选择.md"}
+{"original_id":"CTK-0175","original_path":"03_工件材料分类/CTK-0175_ISO_S组高温合金和钛合金：切削速度判断.md","output_path":"CTK0175-ISO S组高温合金和钛合金：切削速度判断.md"}
+{"original_id":"CTK-0176","original_path":"03_工件材料分类/CTK-0176_ISO_S组高温合金和钛合金：进给判断.md","output_path":"CTK0176-ISO S组高温合金和钛合金：进给判断.md"}
+{"original_id":"CTK-0177","original_path":"03_工件材料分类/CTK-0177_ISO_S组高温合金和钛合金：切深判断.md","output_path":"CTK0177-ISO S组高温合金和钛合金：切深判断.md"}
+{"original_id":"CTK-0178","original_path":"03_工件材料分类/CTK-0178_ISO_S组高温合金和钛合金：冷却判断.md","output_path":"CTK0178-ISO S组高温合金和钛合金：冷却判断.md"}
+{"original_id":"CTK-0179","original_path":"03_工件材料分类/CTK-0179_ISO_S组高温合金和钛合金：参数记录字段.md","output_path":"CTK0179-ISO S组高温合金和钛合金：参数记录字段.md"}
+{"original_id":"CTK-0180","original_path":"03_工件材料分类/CTK-0180_ISO_S组高温合金和钛合金：问答边界.md","output_path":"CTK0180-ISO S组高温合金和钛合金：问答边界.md"}
+{"original_id":"CTK-0181","original_path":"03_工件材料分类/CTK-0181_ISO_H组淬硬材料：定义.md","output_path":"CTK0181-ISO H组淬硬材料：定义.md"}
+{"original_id":"CTK-0182","original_path":"03_工件材料分类/CTK-0182_ISO_H组淬硬材料：选型第一问.md","output_path":"CTK0182-ISO H组淬硬材料：选型第一问.md"}
+{"original_id":"CTK-0183","original_path":"03_工件材料分类/CTK-0183_ISO_H组淬硬材料：主要加工特点.md","output_path":"CTK0183-ISO H组淬硬材料：主要加工特点.md"}
+{"original_id":"CTK-0184","original_path":"03_工件材料分类/CTK-0184_ISO_H组淬硬材料：常见失效风险.md","output_path":"CTK0184-ISO H组淬硬材料：常见失效风险.md"}
+{"original_id":"CTK-0185","original_path":"03_工件材料分类/CTK-0185_ISO_H组淬硬材料：槽型选择.md","output_path":"CTK0185-ISO H组淬硬材料：槽型选择.md"}
+{"original_id":"CTK-0186","original_path":"03_工件材料分类/CTK-0186_ISO_H组淬硬材料：材质选择.md","output_path":"CTK0186-ISO H组淬硬材料：材质选择.md"}
+{"original_id":"CTK-0187","original_path":"03_工件材料分类/CTK-0187_ISO_H组淬硬材料：切削速度判断.md","output_path":"CTK0187-ISO H组淬硬材料：切削速度判断.md"}
+{"original_id":"CTK-0188","original_path":"03_工件材料分类/CTK-0188_ISO_H组淬硬材料：进给判断.md","output_path":"CTK0188-ISO H组淬硬材料：进给判断.md"}
+{"original_id":"CTK-0189","original_path":"03_工件材料分类/CTK-0189_ISO_H组淬硬材料：切深判断.md","output_path":"CTK0189-ISO H组淬硬材料：切深判断.md"}
+{"original_id":"CTK-0190","original_path":"03_工件材料分类/CTK-0190_ISO_H组淬硬材料：冷却判断.md","output_path":"CTK0190-ISO H组淬硬材料：冷却判断.md"}
+{"original_id":"CTK-0191","original_path":"03_工件材料分类/CTK-0191_ISO_H组淬硬材料：参数记录字段.md","output_path":"CTK0191-ISO H组淬硬材料：参数记录字段.md"}
+{"original_id":"CTK-0192","original_path":"03_工件材料分类/CTK-0192_ISO_H组淬硬材料：问答边界.md","output_path":"CTK0192-ISO H组淬硬材料：问答边界.md"}
+{"original_id":"CTK-0193","original_path":"04_车削选型/CTK-0193_车削选型中的工件材料：确认方法.md","output_path":"CTK0193-车削选型中的工件材料：确认方法.md"}
+{"original_id":"CTK-0194","original_path":"04_车削选型/CTK-0194_车削选型中的工件材料：为什么重要.md","output_path":"CTK0194-车削选型中的工件材料：为什么重要.md"}
+{"original_id":"CTK-0195","original_path":"04_车削选型/CTK-0195_车削选型中的工件材料：常见错误.md","output_path":"CTK0195-车削选型中的工件材料：常见错误.md"}
+{"original_id":"CTK-0196","original_path":"04_车削选型/CTK-0196_车削选型中的工件材料：RAG追问.md","output_path":"CTK0196-车削选型中的工件材料：RAG追问.md"}
+{"original_id":"CTK-0197","original_path":"04_车削选型/CTK-0197_车削选型中的工件材料：记录字段.md","output_path":"CTK0197-车削选型中的工件材料：记录字段.md"}
+{"original_id":"CTK-0198","original_path":"04_车削选型/CTK-0198_车削选型中的加工阶段：确认方法.md","output_path":"CTK0198-车削选型中的加工阶段：确认方法.md"}
+{"original_id":"CTK-0199","original_path":"04_车削选型/CTK-0199_车削选型中的加工阶段：为什么重要.md","output_path":"CTK0199-车削选型中的加工阶段：为什么重要.md"}
+{"original_id":"CTK-0200","original_path":"04_车削选型/CTK-0200_车削选型中的加工阶段：常见错误.md","output_path":"CTK0200-车削选型中的加工阶段：常见错误.md"}
+{"original_id":"CTK-0201","original_path":"04_车削选型/CTK-0201_车削选型中的加工阶段：RAG追问.md","output_path":"CTK0201-车削选型中的加工阶段：RAG追问.md"}
+{"original_id":"CTK-0202","original_path":"04_车削选型/CTK-0202_车削选型中的加工阶段：记录字段.md","output_path":"CTK0202-车削选型中的加工阶段：记录字段.md"}
+{"original_id":"CTK-0203","original_path":"04_车削选型/CTK-0203_车削选型中的连续或断续：确认方法.md","output_path":"CTK0203-车削选型中的连续或断续：确认方法.md"}
+{"original_id":"CTK-0204","original_path":"04_车削选型/CTK-0204_车削选型中的连续或断续：为什么重要.md","output_path":"CTK0204-车削选型中的连续或断续：为什么重要.md"}
+{"original_id":"CTK-0205","original_path":"04_车削选型/CTK-0205_车削选型中的连续或断续：常见错误.md","output_path":"CTK0205-车削选型中的连续或断续：常见错误.md"}
+{"original_id":"CTK-0206","original_path":"04_车削选型/CTK-0206_车削选型中的连续或断续：RAG追问.md","output_path":"CTK0206-车削选型中的连续或断续：RAG追问.md"}
+{"original_id":"CTK-0207","original_path":"04_车削选型/CTK-0207_车削选型中的连续或断续：记录字段.md","output_path":"CTK0207-车削选型中的连续或断续：记录字段.md"}
+{"original_id":"CTK-0208","original_path":"04_车削选型/CTK-0208_车削选型中的外圆或内孔：确认方法.md","output_path":"CTK0208-车削选型中的外圆或内孔：确认方法.md"}
+{"original_id":"CTK-0209","original_path":"04_车削选型/CTK-0209_车削选型中的外圆或内孔：为什么重要.md","output_path":"CTK0209-车削选型中的外圆或内孔：为什么重要.md"}
+{"original_id":"CTK-0210","original_path":"04_车削选型/CTK-0210_车削选型中的外圆或内孔：常见错误.md","output_path":"CTK0210-车削选型中的外圆或内孔：常见错误.md"}
+{"original_id":"CTK-0211","original_path":"04_车削选型/CTK-0211_车削选型中的外圆或内孔：RAG追问.md","output_path":"CTK0211-车削选型中的外圆或内孔：RAG追问.md"}
+{"original_id":"CTK-0212","original_path":"04_车削选型/CTK-0212_车削选型中的外圆或内孔：记录字段.md","output_path":"CTK0212-车削选型中的外圆或内孔：记录字段.md"}
+{"original_id":"CTK-0213","original_path":"04_车削选型/CTK-0213_车削选型中的刀片形状：确认方法.md","output_path":"CTK0213-车削选型中的刀片形状：确认方法.md"}
+{"original_id":"CTK-0214","original_path":"04_车削选型/CTK-0214_车削选型中的刀片形状：为什么重要.md","output_path":"CTK0214-车削选型中的刀片形状：为什么重要.md"}
+{"original_id":"CTK-0215","original_path":"04_车削选型/CTK-0215_车削选型中的刀片形状：常见错误.md","output_path":"CTK0215-车削选型中的刀片形状：常见错误.md"}
+{"original_id":"CTK-0216","original_path":"04_车削选型/CTK-0216_车削选型中的刀片形状：RAG追问.md","output_path":"CTK0216-车削选型中的刀片形状：RAG追问.md"}
+{"original_id":"CTK-0217","original_path":"04_车削选型/CTK-0217_车削选型中的刀片形状：记录字段.md","output_path":"CTK0217-车削选型中的刀片形状：记录字段.md"}
+{"original_id":"CTK-0218","original_path":"04_车削选型/CTK-0218_车削选型中的刀尖半径：确认方法.md","output_path":"CTK0218-车削选型中的刀尖半径：确认方法.md"}
+{"original_id":"CTK-0219","original_path":"04_车削选型/CTK-0219_车削选型中的刀尖半径：为什么重要.md","output_path":"CTK0219-车削选型中的刀尖半径：为什么重要.md"}
+{"original_id":"CTK-0220","original_path":"04_车削选型/CTK-0220_车削选型中的刀尖半径：常见错误.md","output_path":"CTK0220-车削选型中的刀尖半径：常见错误.md"}
+{"original_id":"CTK-0221","original_path":"04_车削选型/CTK-0221_车削选型中的刀尖半径：RAG追问.md","output_path":"CTK0221-车削选型中的刀尖半径：RAG追问.md"}
+{"original_id":"CTK-0222","original_path":"04_车削选型/CTK-0222_车削选型中的刀尖半径：记录字段.md","output_path":"CTK0222-车削选型中的刀尖半径：记录字段.md"}
+{"original_id":"CTK-0223","original_path":"04_车削选型/CTK-0223_车削选型中的断屑槽：确认方法.md","output_path":"CTK0223-车削选型中的断屑槽：确认方法.md"}
+{"original_id":"CTK-0224","original_path":"04_车削选型/CTK-0224_车削选型中的断屑槽：为什么重要.md","output_path":"CTK0224-车削选型中的断屑槽：为什么重要.md"}
+{"original_id":"CTK-0225","original_path":"04_车削选型/CTK-0225_车削选型中的断屑槽：常见错误.md","output_path":"CTK0225-车削选型中的断屑槽：常见错误.md"}
+{"original_id":"CTK-0226","original_path":"04_车削选型/CTK-0226_车削选型中的断屑槽：RAG追问.md","output_path":"CTK0226-车削选型中的断屑槽：RAG追问.md"}
+{"original_id":"CTK-0227","original_path":"04_车削选型/CTK-0227_车削选型中的断屑槽：记录字段.md","output_path":"CTK0227-车削选型中的断屑槽：记录字段.md"}
+{"original_id":"CTK-0228","original_path":"04_车削选型/CTK-0228_车削选型中的刀片牌号：确认方法.md","output_path":"CTK0228-车削选型中的刀片牌号：确认方法.md"}
+{"original_id":"CTK-0229","original_path":"04_车削选型/CTK-0229_车削选型中的刀片牌号：为什么重要.md","output_path":"CTK0229-车削选型中的刀片牌号：为什么重要.md"}
+{"original_id":"CTK-0230","original_path":"04_车削选型/CTK-0230_车削选型中的刀片牌号：常见错误.md","output_path":"CTK0230-车削选型中的刀片牌号：常见错误.md"}
+{"original_id":"CTK-0231","original_path":"04_车削选型/CTK-0231_车削选型中的刀片牌号：RAG追问.md","output_path":"CTK0231-车削选型中的刀片牌号：RAG追问.md"}
+{"original_id":"CTK-0232","original_path":"04_车削选型/CTK-0232_车削选型中的刀片牌号：记录字段.md","output_path":"CTK0232-车削选型中的刀片牌号：记录字段.md"}
+{"original_id":"CTK-0233","original_path":"04_车削选型/CTK-0233_车削选型中的进入角：确认方法.md","output_path":"CTK0233-车削选型中的进入角：确认方法.md"}
+{"original_id":"CTK-0234","original_path":"04_车削选型/CTK-0234_车削选型中的进入角：为什么重要.md","output_path":"CTK0234-车削选型中的进入角：为什么重要.md"}
+{"original_id":"CTK-0235","original_path":"04_车削选型/CTK-0235_车削选型中的进入角：常见错误.md","output_path":"CTK0235-车削选型中的进入角：常见错误.md"}
+{"original_id":"CTK-0236","original_path":"04_车削选型/CTK-0236_车削选型中的进入角：RAG追问.md","output_path":"CTK0236-车削选型中的进入角：RAG追问.md"}
+{"original_id":"CTK-0237","original_path":"04_车削选型/CTK-0237_车削选型中的进入角：记录字段.md","output_path":"CTK0237-车削选型中的进入角：记录字段.md"}
+{"original_id":"CTK-0238","original_path":"04_车削选型/CTK-0238_车削选型中的刀杆夹紧：确认方法.md","output_path":"CTK0238-车削选型中的刀杆夹紧：确认方法.md"}
+{"original_id":"CTK-0239","original_path":"04_车削选型/CTK-0239_车削选型中的刀杆夹紧：为什么重要.md","output_path":"CTK0239-车削选型中的刀杆夹紧：为什么重要.md"}
+{"original_id":"CTK-0240","original_path":"04_车削选型/CTK-0240_车削选型中的刀杆夹紧：常见错误.md","output_path":"CTK0240-车削选型中的刀杆夹紧：常见错误.md"}
+{"original_id":"CTK-0241","original_path":"04_车削选型/CTK-0241_车削选型中的刀杆夹紧：RAG追问.md","output_path":"CTK0241-车削选型中的刀杆夹紧：RAG追问.md"}
+{"original_id":"CTK-0242","original_path":"04_车削选型/CTK-0242_车削选型中的刀杆夹紧：记录字段.md","output_path":"CTK0242-车削选型中的刀杆夹紧：记录字段.md"}
+{"original_id":"CTK-0243","original_path":"04_车削选型/CTK-0243_车削选型中的刀杆悬伸：确认方法.md","output_path":"CTK0243-车削选型中的刀杆悬伸：确认方法.md"}
+{"original_id":"CTK-0244","original_path":"04_车削选型/CTK-0244_车削选型中的刀杆悬伸：为什么重要.md","output_path":"CTK0244-车削选型中的刀杆悬伸：为什么重要.md"}
+{"original_id":"CTK-0245","original_path":"04_车削选型/CTK-0245_车削选型中的刀杆悬伸：常见错误.md","output_path":"CTK0245-车削选型中的刀杆悬伸：常见错误.md"}
+{"original_id":"CTK-0246","original_path":"04_车削选型/CTK-0246_车削选型中的刀杆悬伸：RAG追问.md","output_path":"CTK0246-车削选型中的刀杆悬伸：RAG追问.md"}
+{"original_id":"CTK-0247","original_path":"04_车削选型/CTK-0247_车削选型中的刀杆悬伸：记录字段.md","output_path":"CTK0247-车削选型中的刀杆悬伸：记录字段.md"}
+{"original_id":"CTK-0248","original_path":"04_车削选型/CTK-0248_车削选型中的机床功率：确认方法.md","output_path":"CTK0248-车削选型中的机床功率：确认方法.md"}
+{"original_id":"CTK-0249","original_path":"04_车削选型/CTK-0249_车削选型中的机床功率：为什么重要.md","output_path":"CTK0249-车削选型中的机床功率：为什么重要.md"}
+{"original_id":"CTK-0250","original_path":"04_车削选型/CTK-0250_车削选型中的机床功率：常见错误.md","output_path":"CTK0250-车削选型中的机床功率：常见错误.md"}
+{"original_id":"CTK-0251","original_path":"04_车削选型/CTK-0251_车削选型中的机床功率：RAG追问.md","output_path":"CTK0251-车削选型中的机床功率：RAG追问.md"}
+{"original_id":"CTK-0252","original_path":"04_车削选型/CTK-0252_车削选型中的机床功率：记录字段.md","output_path":"CTK0252-车削选型中的机床功率：记录字段.md"}
+{"original_id":"CTK-0253","original_path":"04_车削选型/CTK-0253_车削选型中的工件装夹：确认方法.md","output_path":"CTK0253-车削选型中的工件装夹：确认方法.md"}
+{"original_id":"CTK-0254","original_path":"04_车削选型/CTK-0254_车削选型中的工件装夹：为什么重要.md","output_path":"CTK0254-车削选型中的工件装夹：为什么重要.md"}
+{"original_id":"CTK-0255","original_path":"04_车削选型/CTK-0255_车削选型中的工件装夹：常见错误.md","output_path":"CTK0255-车削选型中的工件装夹：常见错误.md"}
+{"original_id":"CTK-0256","original_path":"04_车削选型/CTK-0256_车削选型中的工件装夹：RAG追问.md","output_path":"CTK0256-车削选型中的工件装夹：RAG追问.md"}
+{"original_id":"CTK-0257","original_path":"04_车削选型/CTK-0257_车削选型中的工件装夹：记录字段.md","output_path":"CTK0257-车削选型中的工件装夹：记录字段.md"}
+{"original_id":"CTK-0258","original_path":"04_车削选型/CTK-0258_车削选型中的冷却条件：确认方法.md","output_path":"CTK0258-车削选型中的冷却条件：确认方法.md"}
+{"original_id":"CTK-0259","original_path":"04_车削选型/CTK-0259_车削选型中的冷却条件：为什么重要.md","output_path":"CTK0259-车削选型中的冷却条件：为什么重要.md"}
+{"original_id":"CTK-0260","original_path":"04_车削选型/CTK-0260_车削选型中的冷却条件：常见错误.md","output_path":"CTK0260-车削选型中的冷却条件：常见错误.md"}
+{"original_id":"CTK-0261","original_path":"04_车削选型/CTK-0261_车削选型中的冷却条件：RAG追问.md","output_path":"CTK0261-车削选型中的冷却条件：RAG追问.md"}
+{"original_id":"CTK-0262","original_path":"04_车削选型/CTK-0262_车削选型中的冷却条件：记录字段.md","output_path":"CTK0262-车削选型中的冷却条件：记录字段.md"}
+{"original_id":"CTK-0263","original_path":"04_车削选型/CTK-0263_车削选型中的表面质量：确认方法.md","output_path":"CTK0263-车削选型中的表面质量：确认方法.md"}
+{"original_id":"CTK-0264","original_path":"04_车削选型/CTK-0264_车削选型中的表面质量：为什么重要.md","output_path":"CTK0264-车削选型中的表面质量：为什么重要.md"}
+{"original_id":"CTK-0265","original_path":"04_车削选型/CTK-0265_车削选型中的表面质量：常见错误.md","output_path":"CTK0265-车削选型中的表面质量：常见错误.md"}
+{"original_id":"CTK-0266","original_path":"04_车削选型/CTK-0266_车削选型中的表面质量：RAG追问.md","output_path":"CTK0266-车削选型中的表面质量：RAG追问.md"}
+{"original_id":"CTK-0267","original_path":"04_车削选型/CTK-0267_车削选型中的表面质量：记录字段.md","output_path":"CTK0267-车削选型中的表面质量：记录字段.md"}
+{"original_id":"CTK-0268","original_path":"04_车削选型/CTK-0268_车削选型中的切屑控制：确认方法.md","output_path":"CTK0268-车削选型中的切屑控制：确认方法.md"}
+{"original_id":"CTK-0269","original_path":"04_车削选型/CTK-0269_车削选型中的切屑控制：为什么重要.md","output_path":"CTK0269-车削选型中的切屑控制：为什么重要.md"}
+{"original_id":"CTK-0270","original_path":"04_车削选型/CTK-0270_车削选型中的切屑控制：常见错误.md","output_path":"CTK0270-车削选型中的切屑控制：常见错误.md"}
+{"original_id":"CTK-0271","original_path":"04_车削选型/CTK-0271_车削选型中的切屑控制：RAG追问.md","output_path":"CTK0271-车削选型中的切屑控制：RAG追问.md"}
+{"original_id":"CTK-0272","original_path":"04_车削选型/CTK-0272_车削选型中的切屑控制：记录字段.md","output_path":"CTK0272-车削选型中的切屑控制：记录字段.md"}
+{"original_id":"CTK-0273","original_path":"04_车削选型/CTK-0273_车削选型中的批量稳定性：确认方法.md","output_path":"CTK0273-车削选型中的批量稳定性：确认方法.md"}
+{"original_id":"CTK-0274","original_path":"04_车削选型/CTK-0274_车削选型中的批量稳定性：为什么重要.md","output_path":"CTK0274-车削选型中的批量稳定性：为什么重要.md"}
+{"original_id":"CTK-0275","original_path":"04_车削选型/CTK-0275_车削选型中的批量稳定性：常见错误.md","output_path":"CTK0275-车削选型中的批量稳定性：常见错误.md"}
+{"original_id":"CTK-0276","original_path":"04_车削选型/CTK-0276_车削选型中的批量稳定性：RAG追问.md","output_path":"CTK0276-车削选型中的批量稳定性：RAG追问.md"}
+{"original_id":"CTK-0277","original_path":"04_车削选型/CTK-0277_车削选型中的批量稳定性：记录字段.md","output_path":"CTK0277-车削选型中的批量稳定性：记录字段.md"}
+{"original_id":"CTK-0278","original_path":"04_车削选型/CTK-0278_车削选型中的试切策略：确认方法.md","output_path":"CTK0278-车削选型中的试切策略：确认方法.md"}
+{"original_id":"CTK-0279","original_path":"04_车削选型/CTK-0279_车削选型中的试切策略：为什么重要.md","output_path":"CTK0279-车削选型中的试切策略：为什么重要.md"}
+{"original_id":"CTK-0280","original_path":"04_车削选型/CTK-0280_车削选型中的试切策略：常见错误.md","output_path":"CTK0280-车削选型中的试切策略：常见错误.md"}
+{"original_id":"CTK-0281","original_path":"04_车削选型/CTK-0281_车削选型中的试切策略：RAG追问.md","output_path":"CTK0281-车削选型中的试切策略：RAG追问.md"}
+{"original_id":"CTK-0282","original_path":"04_车削选型/CTK-0282_车削选型中的试切策略：记录字段.md","output_path":"CTK0282-车削选型中的试切策略：记录字段.md"}
+{"original_id":"CTK-0283","original_path":"05_铣削切槽螺纹钻削/CTK-0283_端面铣削：关键输入.md","output_path":"CTK0283-端面铣削：关键输入.md"}
+{"original_id":"CTK-0284","original_path":"05_铣削切槽螺纹钻削/CTK-0284_端面铣削：参数关系.md","output_path":"CTK0284-端面铣削：参数关系.md"}
+{"original_id":"CTK-0285","original_path":"05_铣削切槽螺纹钻削/CTK-0285_端面铣削：首要风险.md","output_path":"CTK0285-端面铣削：首要风险.md"}
+{"original_id":"CTK-0286","original_path":"05_铣削切槽螺纹钻削/CTK-0286_端面铣削：Agent追问.md","output_path":"CTK0286-端面铣削：Agent追问.md"}
+{"original_id":"CTK-0287","original_path":"05_铣削切槽螺纹钻削/CTK-0287_端面铣削：知识库字段.md","output_path":"CTK0287-端面铣削：知识库字段.md"}
+{"original_id":"CTK-0288","original_path":"05_铣削切槽螺纹钻削/CTK-0288_方肩铣削：关键输入.md","output_path":"CTK0288-方肩铣削：关键输入.md"}
+{"original_id":"CTK-0289","original_path":"05_铣削切槽螺纹钻削/CTK-0289_方肩铣削：参数关系.md","output_path":"CTK0289-方肩铣削：参数关系.md"}
+{"original_id":"CTK-0290","original_path":"05_铣削切槽螺纹钻削/CTK-0290_方肩铣削：首要风险.md","output_path":"CTK0290-方肩铣削：首要风险.md"}
+{"original_id":"CTK-0291","original_path":"05_铣削切槽螺纹钻削/CTK-0291_方肩铣削：Agent追问.md","output_path":"CTK0291-方肩铣削：Agent追问.md"}
+{"original_id":"CTK-0292","original_path":"05_铣削切槽螺纹钻削/CTK-0292_方肩铣削：知识库字段.md","output_path":"CTK0292-方肩铣削：知识库字段.md"}
+{"original_id":"CTK-0293","original_path":"05_铣削切槽螺纹钻削/CTK-0293_高进给铣削：关键输入.md","output_path":"CTK0293-高进给铣削：关键输入.md"}
+{"original_id":"CTK-0294","original_path":"05_铣削切槽螺纹钻削/CTK-0294_高进给铣削：参数关系.md","output_path":"CTK0294-高进给铣削：参数关系.md"}
+{"original_id":"CTK-0295","original_path":"05_铣削切槽螺纹钻削/CTK-0295_高进给铣削：首要风险.md","output_path":"CTK0295-高进给铣削：首要风险.md"}
+{"original_id":"CTK-0296","original_path":"05_铣削切槽螺纹钻削/CTK-0296_高进给铣削：Agent追问.md","output_path":"CTK0296-高进给铣削：Agent追问.md"}
+{"original_id":"CTK-0297","original_path":"05_铣削切槽螺纹钻削/CTK-0297_高进给铣削：知识库字段.md","output_path":"CTK0297-高进给铣削：知识库字段.md"}
+{"original_id":"CTK-0298","original_path":"05_铣削切槽螺纹钻削/CTK-0298_仿形铣削：关键输入.md","output_path":"CTK0298-仿形铣削：关键输入.md"}
+{"original_id":"CTK-0299","original_path":"05_铣削切槽螺纹钻削/CTK-0299_仿形铣削：参数关系.md","output_path":"CTK0299-仿形铣削：参数关系.md"}
+{"original_id":"CTK-0300","original_path":"05_铣削切槽螺纹钻削/CTK-0300_仿形铣削：首要风险.md","output_path":"CTK0300-仿形铣削：首要风险.md"}
+{"original_id":"CTK-0301","original_path":"05_铣削切槽螺纹钻削/CTK-0301_仿形铣削：Agent追问.md","output_path":"CTK0301-仿形铣削：Agent追问.md"}
+{"original_id":"CTK-0302","original_path":"05_铣削切槽螺纹钻削/CTK-0302_仿形铣削：知识库字段.md","output_path":"CTK0302-仿形铣削：知识库字段.md"}
+{"original_id":"CTK-0303","original_path":"05_铣削切槽螺纹钻削/CTK-0303_槽铣：关键输入.md","output_path":"CTK0303-槽铣：关键输入.md"}
+{"original_id":"CTK-0304","original_path":"05_铣削切槽螺纹钻削/CTK-0304_槽铣：参数关系.md","output_path":"CTK0304-槽铣：参数关系.md"}
+{"original_id":"CTK-0305","original_path":"05_铣削切槽螺纹钻削/CTK-0305_槽铣：首要风险.md","output_path":"CTK0305-槽铣：首要风险.md"}
+{"original_id":"CTK-0306","original_path":"05_铣削切槽螺纹钻削/CTK-0306_槽铣：Agent追问.md","output_path":"CTK0306-槽铣：Agent追问.md"}
+{"original_id":"CTK-0307","original_path":"05_铣削切槽螺纹钻削/CTK-0307_槽铣：知识库字段.md","output_path":"CTK0307-槽铣：知识库字段.md"}
+{"original_id":"CTK-0308","original_path":"05_铣削切槽螺纹钻削/CTK-0308_切断：关键输入.md","output_path":"CTK0308-切断：关键输入.md"}
+{"original_id":"CTK-0309","original_path":"05_铣削切槽螺纹钻削/CTK-0309_切断：参数关系.md","output_path":"CTK0309-切断：参数关系.md"}
+{"original_id":"CTK-0310","original_path":"05_铣削切槽螺纹钻削/CTK-0310_切断：首要风险.md","output_path":"CTK0310-切断：首要风险.md"}
+{"original_id":"CTK-0311","original_path":"05_铣削切槽螺纹钻削/CTK-0311_切断：Agent追问.md","output_path":"CTK0311-切断：Agent追问.md"}
+{"original_id":"CTK-0312","original_path":"05_铣削切槽螺纹钻削/CTK-0312_切断：知识库字段.md","output_path":"CTK0312-切断：知识库字段.md"}
+{"original_id":"CTK-0313","original_path":"05_铣削切槽螺纹钻削/CTK-0313_外圆切槽：关键输入.md","output_path":"CTK0313-外圆切槽：关键输入.md"}
+{"original_id":"CTK-0314","original_path":"05_铣削切槽螺纹钻削/CTK-0314_外圆切槽：参数关系.md","output_path":"CTK0314-外圆切槽：参数关系.md"}
+{"original_id":"CTK-0315","original_path":"05_铣削切槽螺纹钻削/CTK-0315_外圆切槽：首要风险.md","output_path":"CTK0315-外圆切槽：首要风险.md"}
+{"original_id":"CTK-0316","original_path":"05_铣削切槽螺纹钻削/CTK-0316_外圆切槽：Agent追问.md","output_path":"CTK0316-外圆切槽：Agent追问.md"}
+{"original_id":"CTK-0317","original_path":"05_铣削切槽螺纹钻削/CTK-0317_外圆切槽：知识库字段.md","output_path":"CTK0317-外圆切槽：知识库字段.md"}
+{"original_id":"CTK-0318","original_path":"05_铣削切槽螺纹钻削/CTK-0318_端面切槽：关键输入.md","output_path":"CTK0318-端面切槽：关键输入.md"}
+{"original_id":"CTK-0319","original_path":"05_铣削切槽螺纹钻削/CTK-0319_端面切槽：参数关系.md","output_path":"CTK0319-端面切槽：参数关系.md"}
+{"original_id":"CTK-0320","original_path":"05_铣削切槽螺纹钻削/CTK-0320_端面切槽：首要风险.md","output_path":"CTK0320-端面切槽：首要风险.md"}
+{"original_id":"CTK-0321","original_path":"05_铣削切槽螺纹钻削/CTK-0321_端面切槽：Agent追问.md","output_path":"CTK0321-端面切槽：Agent追问.md"}
+{"original_id":"CTK-0322","original_path":"05_铣削切槽螺纹钻削/CTK-0322_端面切槽：知识库字段.md","output_path":"CTK0322-端面切槽：知识库字段.md"}
+{"original_id":"CTK-0323","original_path":"05_铣削切槽螺纹钻削/CTK-0323_螺纹车削：关键输入.md","output_path":"CTK0323-螺纹车削：关键输入.md"}
+{"original_id":"CTK-0324","original_path":"05_铣削切槽螺纹钻削/CTK-0324_螺纹车削：参数关系.md","output_path":"CTK0324-螺纹车削：参数关系.md"}
+{"original_id":"CTK-0325","original_path":"05_铣削切槽螺纹钻削/CTK-0325_螺纹车削：首要风险.md","output_path":"CTK0325-螺纹车削：首要风险.md"}
+{"original_id":"CTK-0326","original_path":"05_铣削切槽螺纹钻削/CTK-0326_螺纹车削：Agent追问.md","output_path":"CTK0326-螺纹车削：Agent追问.md"}
+{"original_id":"CTK-0327","original_path":"05_铣削切槽螺纹钻削/CTK-0327_螺纹车削：知识库字段.md","output_path":"CTK0327-螺纹车削：知识库字段.md"}
+{"original_id":"CTK-0328","original_path":"05_铣削切槽螺纹钻削/CTK-0328_可转位钻削：关键输入.md","output_path":"CTK0328-可转位钻削：关键输入.md"}
+{"original_id":"CTK-0329","original_path":"05_铣削切槽螺纹钻削/CTK-0329_可转位钻削：参数关系.md","output_path":"CTK0329-可转位钻削：参数关系.md"}
+{"original_id":"CTK-0330","original_path":"05_铣削切槽螺纹钻削/CTK-0330_可转位钻削：首要风险.md","output_path":"CTK0330-可转位钻削：首要风险.md"}
+{"original_id":"CTK-0331","original_path":"05_铣削切槽螺纹钻削/CTK-0331_可转位钻削：Agent追问.md","output_path":"CTK0331-可转位钻削：Agent追问.md"}
+{"original_id":"CTK-0332","original_path":"05_铣削切槽螺纹钻削/CTK-0332_可转位钻削：知识库字段.md","output_path":"CTK0332-可转位钻削：知识库字段.md"}
+{"original_id":"CTK-0333","original_path":"05_铣削切槽螺纹钻削/CTK-0333_扩孔与粗镗：关键输入.md","output_path":"CTK0333-扩孔与粗镗：关键输入.md"}
+{"original_id":"CTK-0334","original_path":"05_铣削切槽螺纹钻削/CTK-0334_扩孔与粗镗：参数关系.md","output_path":"CTK0334-扩孔与粗镗：参数关系.md"}
+{"original_id":"CTK-0335","original_path":"05_铣削切槽螺纹钻削/CTK-0335_扩孔与粗镗：首要风险.md","output_path":"CTK0335-扩孔与粗镗：首要风险.md"}
+{"original_id":"CTK-0336","original_path":"05_铣削切槽螺纹钻削/CTK-0336_扩孔与粗镗：Agent追问.md","output_path":"CTK0336-扩孔与粗镗：Agent追问.md"}
+{"original_id":"CTK-0337","original_path":"05_铣削切槽螺纹钻削/CTK-0337_扩孔与粗镗：知识库字段.md","output_path":"CTK0337-扩孔与粗镗：知识库字段.md"}
+{"original_id":"CTK-0338","original_path":"05_铣削切槽螺纹钻削/CTK-0338_精镗：关键输入.md","output_path":"CTK0338-精镗：关键输入.md"}
+{"original_id":"CTK-0339","original_path":"05_铣削切槽螺纹钻削/CTK-0339_精镗：参数关系.md","output_path":"CTK0339-精镗：参数关系.md"}
+{"original_id":"CTK-0340","original_path":"05_铣削切槽螺纹钻削/CTK-0340_精镗：首要风险.md","output_path":"CTK0340-精镗：首要风险.md"}
+{"original_id":"CTK-0341","original_path":"05_铣削切槽螺纹钻削/CTK-0341_精镗：Agent追问.md","output_path":"CTK0341-精镗：Agent追问.md"}
+{"original_id":"CTK-0342","original_path":"05_铣削切槽螺纹钻削/CTK-0342_精镗：知识库字段.md","output_path":"CTK0342-精镗：知识库字段.md"}
+{"original_id":"CTK-0343","original_path":"05_铣削切槽螺纹钻削/CTK-0343_内孔车削：关键输入.md","output_path":"CTK0343-内孔车削：关键输入.md"}
+{"original_id":"CTK-0344","original_path":"05_铣削切槽螺纹钻削/CTK-0344_内孔车削：参数关系.md","output_path":"CTK0344-内孔车削：参数关系.md"}
+{"original_id":"CTK-0345","original_path":"05_铣削切槽螺纹钻削/CTK-0345_内孔车削：首要风险.md","output_path":"CTK0345-内孔车削：首要风险.md"}
+{"original_id":"CTK-0346","original_path":"05_铣削切槽螺纹钻削/CTK-0346_内孔车削：Agent追问.md","output_path":"CTK0346-内孔车削：Agent追问.md"}
+{"original_id":"CTK-0347","original_path":"05_铣削切槽螺纹钻削/CTK-0347_内孔车削：知识库字段.md","output_path":"CTK0347-内孔车削：知识库字段.md"}
+{"original_id":"CTK-0348","original_path":"05_铣削切槽螺纹钻削/CTK-0348_坡走铣与螺旋插补：关键输入.md","output_path":"CTK0348-坡走铣与螺旋插补：关键输入.md"}
+{"original_id":"CTK-0349","original_path":"05_铣削切槽螺纹钻削/CTK-0349_坡走铣与螺旋插补：参数关系.md","output_path":"CTK0349-坡走铣与螺旋插补：参数关系.md"}
+{"original_id":"CTK-0350","original_path":"05_铣削切槽螺纹钻削/CTK-0350_坡走铣与螺旋插补：首要风险.md","output_path":"CTK0350-坡走铣与螺旋插补：首要风险.md"}
+{"original_id":"CTK-0351","original_path":"05_铣削切槽螺纹钻削/CTK-0351_坡走铣与螺旋插补：Agent追问.md","output_path":"CTK0351-坡走铣与螺旋插补：Agent追问.md"}
+{"original_id":"CTK-0352","original_path":"05_铣削切槽螺纹钻削/CTK-0352_坡走铣与螺旋插补：知识库字段.md","output_path":"CTK0352-坡走铣与螺旋插补：知识库字段.md"}
+{"original_id":"CTK-0353","original_path":"06_磨损与故障诊断/CTK-0353_长切屑缠绕：现象解释.md","output_path":"CTK0353-长切屑缠绕：现象解释.md"}
+{"original_id":"CTK-0354","original_path":"06_磨损与故障诊断/CTK-0354_长切屑缠绕：可能原因.md","output_path":"CTK0354-长切屑缠绕：可能原因.md"}
+{"original_id":"CTK-0355","original_path":"06_磨损与故障诊断/CTK-0355_长切屑缠绕：第一检查项.md","output_path":"CTK0355-长切屑缠绕：第一检查项.md"}
+{"original_id":"CTK-0356","original_path":"06_磨损与故障诊断/CTK-0356_长切屑缠绕：参数调整边界.md","output_path":"CTK0356-长切屑缠绕：参数调整边界.md"}
+{"original_id":"CTK-0357","original_path":"06_磨损与故障诊断/CTK-0357_长切屑缠绕：升级处理条件.md","output_path":"CTK0357-长切屑缠绕：升级处理条件.md"}
+{"original_id":"CTK-0358","original_path":"06_磨损与故障诊断/CTK-0358_切屑过短飞溅：现象解释.md","output_path":"CTK0358-切屑过短飞溅：现象解释.md"}
+{"original_id":"CTK-0359","original_path":"06_磨损与故障诊断/CTK-0359_切屑过短飞溅：可能原因.md","output_path":"CTK0359-切屑过短飞溅：可能原因.md"}
+{"original_id":"CTK-0360","original_path":"06_磨损与故障诊断/CTK-0360_切屑过短飞溅：第一检查项.md","output_path":"CTK0360-切屑过短飞溅：第一检查项.md"}
+{"original_id":"CTK-0361","original_path":"06_磨损与故障诊断/CTK-0361_切屑过短飞溅：参数调整边界.md","output_path":"CTK0361-切屑过短飞溅：参数调整边界.md"}
+{"original_id":"CTK-0362","original_path":"06_磨损与故障诊断/CTK-0362_切屑过短飞溅：升级处理条件.md","output_path":"CTK0362-切屑过短飞溅：升级处理条件.md"}
+{"original_id":"CTK-0363","original_path":"06_磨损与故障诊断/CTK-0363_后刀面磨损过快：现象解释.md","output_path":"CTK0363-后刀面磨损过快：现象解释.md"}
+{"original_id":"CTK-0364","original_path":"06_磨损与故障诊断/CTK-0364_后刀面磨损过快：可能原因.md","output_path":"CTK0364-后刀面磨损过快：可能原因.md"}
+{"original_id":"CTK-0365","original_path":"06_磨损与故障诊断/CTK-0365_后刀面磨损过快：第一检查项.md","output_path":"CTK0365-后刀面磨损过快：第一检查项.md"}
+{"original_id":"CTK-0366","original_path":"06_磨损与故障诊断/CTK-0366_后刀面磨损过快：参数调整边界.md","output_path":"CTK0366-后刀面磨损过快：参数调整边界.md"}
+{"original_id":"CTK-0367","original_path":"06_磨损与故障诊断/CTK-0367_后刀面磨损过快：升级处理条件.md","output_path":"CTK0367-后刀面磨损过快：升级处理条件.md"}
+{"original_id":"CTK-0368","original_path":"06_磨损与故障诊断/CTK-0368_月牙洼磨损：现象解释.md","output_path":"CTK0368-月牙洼磨损：现象解释.md"}
+{"original_id":"CTK-0369","original_path":"06_磨损与故障诊断/CTK-0369_月牙洼磨损：可能原因.md","output_path":"CTK0369-月牙洼磨损：可能原因.md"}
+{"original_id":"CTK-0370","original_path":"06_磨损与故障诊断/CTK-0370_月牙洼磨损：第一检查项.md","output_path":"CTK0370-月牙洼磨损：第一检查项.md"}
+{"original_id":"CTK-0371","original_path":"06_磨损与故障诊断/CTK-0371_月牙洼磨损：参数调整边界.md","output_path":"CTK0371-月牙洼磨损：参数调整边界.md"}
+{"original_id":"CTK-0372","original_path":"06_磨损与故障诊断/CTK-0372_月牙洼磨损：升级处理条件.md","output_path":"CTK0372-月牙洼磨损：升级处理条件.md"}
+{"original_id":"CTK-0373","original_path":"06_磨损与故障诊断/CTK-0373_沟槽磨损：现象解释.md","output_path":"CTK0373-沟槽磨损：现象解释.md"}
+{"original_id":"CTK-0374","original_path":"06_磨损与故障诊断/CTK-0374_沟槽磨损：可能原因.md","output_path":"CTK0374-沟槽磨损：可能原因.md"}
+{"original_id":"CTK-0375","original_path":"06_磨损与故障诊断/CTK-0375_沟槽磨损：第一检查项.md","output_path":"CTK0375-沟槽磨损：第一检查项.md"}
+{"original_id":"CTK-0376","original_path":"06_磨损与故障诊断/CTK-0376_沟槽磨损：参数调整边界.md","output_path":"CTK0376-沟槽磨损：参数调整边界.md"}
+{"original_id":"CTK-0377","original_path":"06_磨损与故障诊断/CTK-0377_沟槽磨损：升级处理条件.md","output_path":"CTK0377-沟槽磨损：升级处理条件.md"}
+{"original_id":"CTK-0378","original_path":"06_磨损与故障诊断/CTK-0378_积屑瘤：现象解释.md","output_path":"CTK0378-积屑瘤：现象解释.md"}
+{"original_id":"CTK-0379","original_path":"06_磨损与故障诊断/CTK-0379_积屑瘤：可能原因.md","output_path":"CTK0379-积屑瘤：可能原因.md"}
+{"original_id":"CTK-0380","original_path":"06_磨损与故障诊断/CTK-0380_积屑瘤：第一检查项.md","output_path":"CTK0380-积屑瘤：第一检查项.md"}
+{"original_id":"CTK-0381","original_path":"06_磨损与故障诊断/CTK-0381_积屑瘤：参数调整边界.md","output_path":"CTK0381-积屑瘤：参数调整边界.md"}
+{"original_id":"CTK-0382","original_path":"06_磨损与故障诊断/CTK-0382_积屑瘤：升级处理条件.md","output_path":"CTK0382-积屑瘤：升级处理条件.md"}
+{"original_id":"CTK-0383","original_path":"06_磨损与故障诊断/CTK-0383_随机崩刃：现象解释.md","output_path":"CTK0383-随机崩刃：现象解释.md"}
+{"original_id":"CTK-0384","original_path":"06_磨损与故障诊断/CTK-0384_随机崩刃：可能原因.md","output_path":"CTK0384-随机崩刃：可能原因.md"}
+{"original_id":"CTK-0385","original_path":"06_磨损与故障诊断/CTK-0385_随机崩刃：第一检查项.md","output_path":"CTK0385-随机崩刃：第一检查项.md"}
+{"original_id":"CTK-0386","original_path":"06_磨损与故障诊断/CTK-0386_随机崩刃：参数调整边界.md","output_path":"CTK0386-随机崩刃：参数调整边界.md"}
+{"original_id":"CTK-0387","original_path":"06_磨损与故障诊断/CTK-0387_随机崩刃：升级处理条件.md","output_path":"CTK0387-随机崩刃：升级处理条件.md"}
+{"original_id":"CTK-0388","original_path":"06_磨损与故障诊断/CTK-0388_热裂纹：现象解释.md","output_path":"CTK0388-热裂纹：现象解释.md"}
+{"original_id":"CTK-0389","original_path":"06_磨损与故障诊断/CTK-0389_热裂纹：可能原因.md","output_path":"CTK0389-热裂纹：可能原因.md"}
+{"original_id":"CTK-0390","original_path":"06_磨损与故障诊断/CTK-0390_热裂纹：第一检查项.md","output_path":"CTK0390-热裂纹：第一检查项.md"}
+{"original_id":"CTK-0391","original_path":"06_磨损与故障诊断/CTK-0391_热裂纹：参数调整边界.md","output_path":"CTK0391-热裂纹：参数调整边界.md"}
+{"original_id":"CTK-0392","original_path":"06_磨损与故障诊断/CTK-0392_热裂纹：升级处理条件.md","output_path":"CTK0392-热裂纹：升级处理条件.md"}
+{"original_id":"CTK-0393","original_path":"06_磨损与故障诊断/CTK-0393_塑性变形：现象解释.md","output_path":"CTK0393-塑性变形：现象解释.md"}
+{"original_id":"CTK-0394","original_path":"06_磨损与故障诊断/CTK-0394_塑性变形：可能原因.md","output_path":"CTK0394-塑性变形：可能原因.md"}
+{"original_id":"CTK-0395","original_path":"06_磨损与故障诊断/CTK-0395_塑性变形：第一检查项.md","output_path":"CTK0395-塑性变形：第一检查项.md"}
+{"original_id":"CTK-0396","original_path":"06_磨损与故障诊断/CTK-0396_塑性变形：参数调整边界.md","output_path":"CTK0396-塑性变形：参数调整边界.md"}
+{"original_id":"CTK-0397","original_path":"06_磨损与故障诊断/CTK-0397_塑性变形：升级处理条件.md","output_path":"CTK0397-塑性变形：升级处理条件.md"}
+{"original_id":"CTK-0398","original_path":"06_磨损与故障诊断/CTK-0398_振动纹：现象解释.md","output_path":"CTK0398-振动纹：现象解释.md"}
+{"original_id":"CTK-0399","original_path":"06_磨损与故障诊断/CTK-0399_振动纹：可能原因.md","output_path":"CTK0399-振动纹：可能原因.md"}
+{"original_id":"CTK-0400","original_path":"06_磨损与故障诊断/CTK-0400_振动纹：第一检查项.md","output_path":"CTK0400-振动纹：第一检查项.md"}
+{"original_id":"CTK-0401","original_path":"06_磨损与故障诊断/CTK-0401_振动纹：参数调整边界.md","output_path":"CTK0401-振动纹：参数调整边界.md"}
+{"original_id":"CTK-0402","original_path":"06_磨损与故障诊断/CTK-0402_振动纹：升级处理条件.md","output_path":"CTK0402-振动纹：升级处理条件.md"}
+{"original_id":"CTK-0403","original_path":"06_磨损与故障诊断/CTK-0403_表面粗糙度超差：现象解释.md","output_path":"CTK0403-表面粗糙度超差：现象解释.md"}
+{"original_id":"CTK-0404","original_path":"06_磨损与故障诊断/CTK-0404_表面粗糙度超差：可能原因.md","output_path":"CTK0404-表面粗糙度超差：可能原因.md"}
+{"original_id":"CTK-0405","original_path":"06_磨损与故障诊断/CTK-0405_表面粗糙度超差：第一检查项.md","output_path":"CTK0405-表面粗糙度超差：第一检查项.md"}
+{"original_id":"CTK-0406","original_path":"06_磨损与故障诊断/CTK-0406_表面粗糙度超差：参数调整边界.md","output_path":"CTK0406-表面粗糙度超差：参数调整边界.md"}
+{"original_id":"CTK-0407","original_path":"06_磨损与故障诊断/CTK-0407_表面粗糙度超差：升级处理条件.md","output_path":"CTK0407-表面粗糙度超差：升级处理条件.md"}
+{"original_id":"CTK-0408","original_path":"06_磨损与故障诊断/CTK-0408_尺寸逐渐漂移：现象解释.md","output_path":"CTK0408-尺寸逐渐漂移：现象解释.md"}
+{"original_id":"CTK-0409","original_path":"06_磨损与故障诊断/CTK-0409_尺寸逐渐漂移：可能原因.md","output_path":"CTK0409-尺寸逐渐漂移：可能原因.md"}
+{"original_id":"CTK-0410","original_path":"06_磨损与故障诊断/CTK-0410_尺寸逐渐漂移：第一检查项.md","output_path":"CTK0410-尺寸逐渐漂移：第一检查项.md"}
+{"original_id":"CTK-0411","original_path":"06_磨损与故障诊断/CTK-0411_尺寸逐渐漂移：参数调整边界.md","output_path":"CTK0411-尺寸逐渐漂移：参数调整边界.md"}
+{"original_id":"CTK-0412","original_path":"06_磨损与故障诊断/CTK-0412_尺寸逐渐漂移：升级处理条件.md","output_path":"CTK0412-尺寸逐渐漂移：升级处理条件.md"}
+{"original_id":"CTK-0413","original_path":"06_磨损与故障诊断/CTK-0413_尺寸随机波动：现象解释.md","output_path":"CTK0413-尺寸随机波动：现象解释.md"}
+{"original_id":"CTK-0414","original_path":"06_磨损与故障诊断/CTK-0414_尺寸随机波动：可能原因.md","output_path":"CTK0414-尺寸随机波动：可能原因.md"}
+{"original_id":"CTK-0415","original_path":"06_磨损与故障诊断/CTK-0415_尺寸随机波动：第一检查项.md","output_path":"CTK0415-尺寸随机波动：第一检查项.md"}
+{"original_id":"CTK-0416","original_path":"06_磨损与故障诊断/CTK-0416_尺寸随机波动：参数调整边界.md","output_path":"CTK0416-尺寸随机波动：参数调整边界.md"}
+{"original_id":"CTK-0417","original_path":"06_磨损与故障诊断/CTK-0417_尺寸随机波动：升级处理条件.md","output_path":"CTK0417-尺寸随机波动：升级处理条件.md"}
+{"original_id":"CTK-0418","original_path":"06_磨损与故障诊断/CTK-0418_毛刺增大：现象解释.md","output_path":"CTK0418-毛刺增大：现象解释.md"}
+{"original_id":"CTK-0419","original_path":"06_磨损与故障诊断/CTK-0419_毛刺增大：可能原因.md","output_path":"CTK0419-毛刺增大：可能原因.md"}
+{"original_id":"CTK-0420","original_path":"06_磨损与故障诊断/CTK-0420_毛刺增大：第一检查项.md","output_path":"CTK0420-毛刺增大：第一检查项.md"}
+{"original_id":"CTK-0421","original_path":"06_磨损与故障诊断/CTK-0421_毛刺增大：参数调整边界.md","output_path":"CTK0421-毛刺增大：参数调整边界.md"}
+{"original_id":"CTK-0422","original_path":"06_磨损与故障诊断/CTK-0422_毛刺增大：升级处理条件.md","output_path":"CTK0422-毛刺增大：升级处理条件.md"}
+{"original_id":"CTK-0423","original_path":"06_磨损与故障诊断/CTK-0423_刀片松动：现象解释.md","output_path":"CTK0423-刀片松动：现象解释.md"}
+{"original_id":"CTK-0424","original_path":"06_磨损与故障诊断/CTK-0424_刀片松动：可能原因.md","output_path":"CTK0424-刀片松动：可能原因.md"}
+{"original_id":"CTK-0425","original_path":"06_磨损与故障诊断/CTK-0425_刀片松动：第一检查项.md","output_path":"CTK0425-刀片松动：第一检查项.md"}
+{"original_id":"CTK-0426","original_path":"06_磨损与故障诊断/CTK-0426_刀片松动：参数调整边界.md","output_path":"CTK0426-刀片松动：参数调整边界.md"}
+{"original_id":"CTK-0427","original_path":"06_磨损与故障诊断/CTK-0427_刀片松动：升级处理条件.md","output_path":"CTK0427-刀片松动：升级处理条件.md"}
+{"original_id":"CTK-0428","original_path":"06_磨损与故障诊断/CTK-0428_刀片座损伤：现象解释.md","output_path":"CTK0428-刀片座损伤：现象解释.md"}
+{"original_id":"CTK-0429","original_path":"06_磨损与故障诊断/CTK-0429_刀片座损伤：可能原因.md","output_path":"CTK0429-刀片座损伤：可能原因.md"}
+{"original_id":"CTK-0430","original_path":"06_磨损与故障诊断/CTK-0430_刀片座损伤：第一检查项.md","output_path":"CTK0430-刀片座损伤：第一检查项.md"}
+{"original_id":"CTK-0431","original_path":"06_磨损与故障诊断/CTK-0431_刀片座损伤：参数调整边界.md","output_path":"CTK0431-刀片座损伤：参数调整边界.md"}
+{"original_id":"CTK-0432","original_path":"06_磨损与故障诊断/CTK-0432_刀片座损伤：升级处理条件.md","output_path":"CTK0432-刀片座损伤：升级处理条件.md"}
+{"original_id":"CTK-0433","original_path":"06_磨损与故障诊断/CTK-0433_内孔振动：现象解释.md","output_path":"CTK0433-内孔振动：现象解释.md"}
+{"original_id":"CTK-0434","original_path":"06_磨损与故障诊断/CTK-0434_内孔振动：可能原因.md","output_path":"CTK0434-内孔振动：可能原因.md"}
+{"original_id":"CTK-0435","original_path":"06_磨损与故障诊断/CTK-0435_内孔振动：第一检查项.md","output_path":"CTK0435-内孔振动：第一检查项.md"}
+{"original_id":"CTK-0436","original_path":"06_磨损与故障诊断/CTK-0436_内孔振动：参数调整边界.md","output_path":"CTK0436-内孔振动：参数调整边界.md"}
+{"original_id":"CTK-0437","original_path":"06_磨损与故障诊断/CTK-0437_内孔振动：升级处理条件.md","output_path":"CTK0437-内孔振动：升级处理条件.md"}
+{"original_id":"CTK-0438","original_path":"06_磨损与故障诊断/CTK-0438_切断末端凸点：现象解释.md","output_path":"CTK0438-切断末端凸点：现象解释.md"}
+{"original_id":"CTK-0439","original_path":"06_磨损与故障诊断/CTK-0439_切断末端凸点：可能原因.md","output_path":"CTK0439-切断末端凸点：可能原因.md"}
+{"original_id":"CTK-0440","original_path":"06_磨损与故障诊断/CTK-0440_切断末端凸点：第一检查项.md","output_path":"CTK0440-切断末端凸点：第一检查项.md"}
+{"original_id":"CTK-0441","original_path":"06_磨损与故障诊断/CTK-0441_切断末端凸点：参数调整边界.md","output_path":"CTK0441-切断末端凸点：参数调整边界.md"}
+{"original_id":"CTK-0442","original_path":"06_磨损与故障诊断/CTK-0442_切断末端凸点：升级处理条件.md","output_path":"CTK0442-切断末端凸点：升级处理条件.md"}
+{"original_id":"CTK-0443","original_path":"06_磨损与故障诊断/CTK-0443_螺纹牙型不良：现象解释.md","output_path":"CTK0443-螺纹牙型不良：现象解释.md"}
+{"original_id":"CTK-0444","original_path":"06_磨损与故障诊断/CTK-0444_螺纹牙型不良：可能原因.md","output_path":"CTK0444-螺纹牙型不良：可能原因.md"}
+{"original_id":"CTK-0445","original_path":"06_磨损与故障诊断/CTK-0445_螺纹牙型不良：第一检查项.md","output_path":"CTK0445-螺纹牙型不良：第一检查项.md"}
+{"original_id":"CTK-0446","original_path":"06_磨损与故障诊断/CTK-0446_螺纹牙型不良：参数调整边界.md","output_path":"CTK0446-螺纹牙型不良：参数调整边界.md"}
+{"original_id":"CTK-0447","original_path":"06_磨损与故障诊断/CTK-0447_螺纹牙型不良：升级处理条件.md","output_path":"CTK0447-螺纹牙型不良：升级处理条件.md"}
+{"original_id":"CTK-0448","original_path":"06_磨损与故障诊断/CTK-0448_孔径超差：现象解释.md","output_path":"CTK0448-孔径超差：现象解释.md"}
+{"original_id":"CTK-0449","original_path":"06_磨损与故障诊断/CTK-0449_孔径超差：可能原因.md","output_path":"CTK0449-孔径超差：可能原因.md"}
+{"original_id":"CTK-0450","original_path":"06_磨损与故障诊断/CTK-0450_孔径超差：第一检查项.md","output_path":"CTK0450-孔径超差：第一检查项.md"}
+{"original_id":"CTK-0451","original_path":"06_磨损与故障诊断/CTK-0451_孔径超差：参数调整边界.md","output_path":"CTK0451-孔径超差：参数调整边界.md"}
+{"original_id":"CTK-0452","original_path":"06_磨损与故障诊断/CTK-0452_孔径超差：升级处理条件.md","output_path":"CTK0452-孔径超差：升级处理条件.md"}
+{"original_id":"CTK-0453","original_path":"07_切削参数与公式/CTK-0453_车削转速计算示例1.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0454","original_path":"07_切削参数与公式/CTK-0454_车削转速计算示例2.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0455","original_path":"07_切削参数与公式/CTK-0455_车削转速计算示例3.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0456","original_path":"07_切削参数与公式/CTK-0456_车削转速计算示例4.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0457","original_path":"07_切削参数与公式/CTK-0457_车削转速计算示例5.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0458","original_path":"07_切削参数与公式/CTK-0458_车削转速计算示例6.md","output_path":"CTK0453-车削转速计算.md"}
+{"original_id":"CTK-0459","original_path":"07_切削参数与公式/CTK-0459_切削速度反算计算示例1.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0460","original_path":"07_切削参数与公式/CTK-0460_切削速度反算计算示例2.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0461","original_path":"07_切削参数与公式/CTK-0461_切削速度反算计算示例3.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0462","original_path":"07_切削参数与公式/CTK-0462_切削速度反算计算示例4.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0463","original_path":"07_切削参数与公式/CTK-0463_切削速度反算计算示例5.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0464","original_path":"07_切削参数与公式/CTK-0464_切削速度反算计算示例6.md","output_path":"CTK0459-车削切削速度反算.md"}
+{"original_id":"CTK-0465","original_path":"07_切削参数与公式/CTK-0465_车削进给速度计算示例1.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0466","original_path":"07_切削参数与公式/CTK-0466_车削进给速度计算示例2.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0467","original_path":"07_切削参数与公式/CTK-0467_车削进给速度计算示例3.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0468","original_path":"07_切削参数与公式/CTK-0468_车削进给速度计算示例4.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0469","original_path":"07_切削参数与公式/CTK-0469_车削进给速度计算示例5.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0470","original_path":"07_切削参数与公式/CTK-0470_车削进给速度计算示例6.md","output_path":"CTK0465-车削进给速度计算.md"}
+{"original_id":"CTK-0471","original_path":"07_切削参数与公式/CTK-0471_铣削工作台进给计算示例1.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0472","original_path":"07_切削参数与公式/CTK-0472_铣削工作台进给计算示例2.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0473","original_path":"07_切削参数与公式/CTK-0473_铣削工作台进给计算示例3.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0474","original_path":"07_切削参数与公式/CTK-0474_铣削工作台进给计算示例4.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0475","original_path":"07_切削参数与公式/CTK-0475_铣削工作台进给计算示例5.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0476","original_path":"07_切削参数与公式/CTK-0476_铣削工作台进给计算示例6.md","output_path":"CTK0471-铣削工作台进给计算.md"}
+{"original_id":"CTK-0477","original_path":"07_切削参数与公式/CTK-0477_铣削每齿进给反算计算示例1.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0478","original_path":"07_切削参数与公式/CTK-0478_铣削每齿进给反算计算示例2.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0479","original_path":"07_切削参数与公式/CTK-0479_铣削每齿进给反算计算示例3.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0480","original_path":"07_切削参数与公式/CTK-0480_铣削每齿进给反算计算示例4.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0481","original_path":"07_切削参数与公式/CTK-0481_铣削每齿进给反算计算示例5.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0482","original_path":"07_切削参数与公式/CTK-0482_铣削每齿进给反算计算示例6.md","output_path":"CTK0477-铣削每齿进给反算.md"}
+{"original_id":"CTK-0483","original_path":"07_切削参数与公式/CTK-0483_车削加工时间计算示例1.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0484","original_path":"07_切削参数与公式/CTK-0484_车削加工时间计算示例2.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0485","original_path":"07_切削参数与公式/CTK-0485_车削加工时间计算示例3.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0486","original_path":"07_切削参数与公式/CTK-0486_车削加工时间计算示例4.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0487","original_path":"07_切削参数与公式/CTK-0487_车削加工时间计算示例5.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0488","original_path":"07_切削参数与公式/CTK-0488_车削加工时间计算示例6.md","output_path":"CTK0483-车削加工时间计算.md"}
+{"original_id":"CTK-0489","original_path":"07_切削参数与公式/CTK-0489_近似材料去除率计算示例1.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0490","original_path":"07_切削参数与公式/CTK-0490_近似材料去除率计算示例2.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0491","original_path":"07_切削参数与公式/CTK-0491_近似材料去除率计算示例3.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0492","original_path":"07_切削参数与公式/CTK-0492_近似材料去除率计算示例4.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0493","original_path":"07_切削参数与公式/CTK-0493_近似材料去除率计算示例5.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0494","original_path":"07_切削参数与公式/CTK-0494_近似材料去除率计算示例6.md","output_path":"CTK0489-车削近似材料去除率计算.md"}
+{"original_id":"CTK-0495","original_path":"07_切削参数与公式/CTK-0495_主轴扭矩计算示例1.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0496","original_path":"07_切削参数与公式/CTK-0496_主轴扭矩计算示例2.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0497","original_path":"07_切削参数与公式/CTK-0497_主轴扭矩计算示例3.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0498","original_path":"07_切削参数与公式/CTK-0498_主轴扭矩计算示例4.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0499","original_path":"07_切削参数与公式/CTK-0499_主轴扭矩计算示例5.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0500","original_path":"07_切削参数与公式/CTK-0500_主轴扭矩计算示例6.md","output_path":"CTK0495-主轴扭矩计算.md"}
+{"original_id":"CTK-0501","original_path":"08_厂商公开材质参数/CTK-0501_Tungaloy_T9205材质适用范围.md","output_path":"CTK0501-Tungaloy T9205材质适用范围.md"}
+{"original_id":"CTK-0502","original_path":"08_厂商公开材质参数/CTK-0502_Tungaloy_T9215材质适用范围.md","output_path":"CTK0502-Tungaloy T9215材质适用范围.md"}
+{"original_id":"CTK-0503","original_path":"08_厂商公开材质参数/CTK-0503_Tungaloy_T9225材质适用范围.md","output_path":"CTK0503-Tungaloy T9225材质适用范围.md"}
+{"original_id":"CTK-0504","original_path":"08_厂商公开材质参数/CTK-0504_Tungaloy_T9235材质适用范围.md","output_path":"CTK0504-Tungaloy T9235材质适用范围.md"}
+{"original_id":"CTK-0505","original_path":"08_厂商公开材质参数/CTK-0505_Tungaloy_T6215材质适用范围.md","output_path":"CTK0505-Tungaloy T6215材质适用范围.md"}
+{"original_id":"CTK-0506","original_path":"08_厂商公开材质参数/CTK-0506_Tungaloy_T6120材质适用范围.md","output_path":"CTK0506-Tungaloy T6120材质适用范围.md"}
+{"original_id":"CTK-0507","original_path":"08_厂商公开材质参数/CTK-0507_Tungaloy_T6130材质适用范围.md","output_path":"CTK0507-Tungaloy T6130材质适用范围.md"}
+{"original_id":"CTK-0508","original_path":"08_厂商公开材质参数/CTK-0508_Tungaloy_T505材质适用范围.md","output_path":"CTK0508-Tungaloy T505材质适用范围.md"}
+{"original_id":"CTK-0509","original_path":"08_厂商公开材质参数/CTK-0509_Tungaloy_T5105材质适用范围.md","output_path":"CTK0509-Tungaloy T5105材质适用范围.md"}
+{"original_id":"CTK-0510","original_path":"08_厂商公开材质参数/CTK-0510_Tungaloy_T515材质适用范围.md","output_path":"CTK0510-Tungaloy T515材质适用范围.md"}
+{"original_id":"CTK-0511","original_path":"08_厂商公开材质参数/CTK-0511_Tungaloy_T5115材质适用范围.md","output_path":"CTK0511-Tungaloy T5115材质适用范围.md"}
+{"original_id":"CTK-0512","original_path":"08_厂商公开材质参数/CTK-0512_Tungaloy_T5125材质适用范围.md","output_path":"CTK0512-Tungaloy T5125材质适用范围.md"}
+{"original_id":"CTK-0513","original_path":"08_厂商公开材质参数/CTK-0513_Tungaloy_AH110材质适用范围.md","output_path":"CTK0513-Tungaloy AH110材质适用范围.md"}
+{"original_id":"CTK-0514","original_path":"08_厂商公开材质参数/CTK-0514_Tungaloy_AH120材质适用范围.md","output_path":"CTK0514-Tungaloy AH120材质适用范围.md"}
+{"original_id":"CTK-0515","original_path":"08_厂商公开材质参数/CTK-0515_Tungaloy_AH130材质适用范围.md","output_path":"CTK0515-Tungaloy AH130材质适用范围.md"}
+{"original_id":"CTK-0516","original_path":"08_厂商公开材质参数/CTK-0516_Tungaloy_AH140材质适用范围.md","output_path":"CTK0516-Tungaloy AH140材质适用范围.md"}
+{"original_id":"CTK-0517","original_path":"08_厂商公开材质参数/CTK-0517_Tungaloy_AH170材质适用范围.md","output_path":"CTK0517-Tungaloy AH170材质适用范围.md"}
+{"original_id":"CTK-0518","original_path":"08_厂商公开材质参数/CTK-0518_Tungaloy_AH180材质适用范围.md","output_path":"CTK0518-Tungaloy AH180材质适用范围.md"}
+{"original_id":"CTK-0519","original_path":"08_厂商公开材质参数/CTK-0519_Tungaloy_AH3225材质适用范围.md","output_path":"CTK0519-Tungaloy AH3225材质适用范围.md"}
+{"original_id":"CTK-0520","original_path":"08_厂商公开材质参数/CTK-0520_Tungaloy_AH330材质适用范围.md","output_path":"CTK0520-Tungaloy AH330材质适用范围.md"}
+{"original_id":"CTK-0521","original_path":"08_厂商公开材质参数/CTK-0521_Tungaloy_AH3135材质适用范围.md","output_path":"CTK0521-Tungaloy AH3135材质适用范围.md"}
+{"original_id":"CTK-0522","original_path":"08_厂商公开材质参数/CTK-0522_Tungaloy_AH3035材质适用范围.md","output_path":"CTK0522-Tungaloy AH3035材质适用范围.md"}
+{"original_id":"CTK-0523","original_path":"08_厂商公开材质参数/CTK-0523_Tungaloy_AH4035材质适用范围.md","output_path":"CTK0523-Tungaloy AH4035材质适用范围.md"}
+{"original_id":"CTK-0524","original_path":"08_厂商公开材质参数/CTK-0524_Tungaloy_AH6225材质适用范围.md","output_path":"CTK0524-Tungaloy AH6225材质适用范围.md"}
+{"original_id":"CTK-0525","original_path":"08_厂商公开材质参数/CTK-0525_Tungaloy_AH6030材质适用范围.md","output_path":"CTK0525-Tungaloy AH6030材质适用范围.md"}
+{"original_id":"CTK-0526","original_path":"08_厂商公开材质参数/CTK-0526_Tungaloy_AH630材质适用范围.md","output_path":"CTK0526-Tungaloy AH630材质适用范围.md"}
+{"original_id":"CTK-0527","original_path":"08_厂商公开材质参数/CTK-0527_Tungaloy_AH6235材质适用范围.md","output_path":"CTK0527-Tungaloy AH6235材质适用范围.md"}
+{"original_id":"CTK-0528","original_path":"08_厂商公开材质参数/CTK-0528_Tungaloy_AH645材质适用范围.md","output_path":"CTK0528-Tungaloy AH645材质适用范围.md"}
+{"original_id":"CTK-0529","original_path":"08_厂商公开材质参数/CTK-0529_Tungaloy_AH710材质适用范围.md","output_path":"CTK0529-Tungaloy AH710材质适用范围.md"}
+{"original_id":"CTK-0530","original_path":"08_厂商公开材质参数/CTK-0530_Tungaloy_AH7025材质适用范围.md","output_path":"CTK0530-Tungaloy AH7025材质适用范围.md"}
+{"original_id":"CTK-0531","original_path":"08_厂商公开材质参数/CTK-0531_Tungaloy_AH725材质适用范围.md","output_path":"CTK0531-Tungaloy AH725材质适用范围.md"}
+{"original_id":"CTK-0532","original_path":"08_厂商公开材质参数/CTK-0532_Tungaloy_AH730材质适用范围.md","output_path":"CTK0532-Tungaloy AH730材质适用范围.md"}
+{"original_id":"CTK-0533","original_path":"08_厂商公开材质参数/CTK-0533_Tungaloy_AH750材质适用范围.md","output_path":"CTK0533-Tungaloy AH750材质适用范围.md"}
+{"original_id":"CTK-0534","original_path":"08_厂商公开材质参数/CTK-0534_Tungaloy_AH8005材质适用范围.md","output_path":"CTK0534-Tungaloy AH8005材质适用范围.md"}
+{"original_id":"CTK-0535","original_path":"08_厂商公开材质参数/CTK-0535_Tungaloy_AH905材质适用范围.md","output_path":"CTK0535-Tungaloy AH905材质适用范围.md"}
+{"original_id":"CTK-0536","original_path":"08_厂商公开材质参数/CTK-0536_Tungaloy_AH8015材质适用范围.md","output_path":"CTK0536-Tungaloy AH8015材质适用范围.md"}
+{"original_id":"CTK-0537","original_path":"08_厂商公开材质参数/CTK-0537_Tungaloy_AH9130材质适用范围.md","output_path":"CTK0537-Tungaloy AH9130材质适用范围.md"}
+{"original_id":"CTK-0538","original_path":"08_厂商公开材质参数/CTK-0538_Tungaloy_AH9030材质适用范围.md","output_path":"CTK0538-Tungaloy AH9030材质适用范围.md"}
+{"original_id":"CTK-0539","original_path":"08_厂商公开材质参数/CTK-0539_Tungaloy_APH730材质适用范围.md","output_path":"CTK0539-Tungaloy APH730材质适用范围.md"}
+{"original_id":"CTK-0540","original_path":"08_厂商公开材质参数/CTK-0540_Tungaloy_DS1100材质适用范围.md","output_path":"CTK0540-Tungaloy DS1100材质适用范围.md"}
+{"original_id":"CTK-0541","original_path":"08_厂商公开材质参数/CTK-0541_Tungaloy_DS1200材质适用范围.md","output_path":"CTK0541-Tungaloy DS1200材质适用范围.md"}
+{"original_id":"CTK-0542","original_path":"08_厂商公开材质参数/CTK-0542_Tungaloy_GH110材质适用范围.md","output_path":"CTK0542-Tungaloy GH110材质适用范围.md"}
+{"original_id":"CTK-0543","original_path":"08_厂商公开材质参数/CTK-0543_Tungaloy_GH130材质适用范围.md","output_path":"CTK0543-Tungaloy GH130材质适用范围.md"}
+{"original_id":"CTK-0544","original_path":"08_厂商公开材质参数/CTK-0544_Tungaloy_GH330材质适用范围.md","output_path":"CTK0544-Tungaloy GH330材质适用范围.md"}
+{"original_id":"CTK-0545","original_path":"08_厂商公开材质参数/CTK-0545_Tungaloy_GH730材质适用范围.md","output_path":"CTK0545-Tungaloy GH730材质适用范围.md"}
+{"original_id":"CTK-0546","original_path":"09_刀具材料与涂层/CTK-0546_CVD涂层硬质合金：定义.md","output_path":"CTK0546-CVD涂层硬质合金：定义.md"}
+{"original_id":"CTK-0547","original_path":"09_刀具材料与涂层/CTK-0547_CVD涂层硬质合金：选择依据.md","output_path":"CTK0547-CVD涂层硬质合金：选择依据.md"}
+{"original_id":"CTK-0548","original_path":"09_刀具材料与涂层/CTK-0548_CVD涂层硬质合金：主要风险.md","output_path":"CTK0548-CVD涂层硬质合金：主要风险.md"}
+{"original_id":"CTK-0549","original_path":"09_刀具材料与涂层/CTK-0549_CVD涂层硬质合金：参数边界.md","output_path":"CTK0549-CVD涂层硬质合金：参数边界.md"}
+{"original_id":"CTK-0550","original_path":"09_刀具材料与涂层/CTK-0550_CVD涂层硬质合金：替代判断.md","output_path":"CTK0550-CVD涂层硬质合金：替代判断.md"}
+{"original_id":"CTK-0551","original_path":"09_刀具材料与涂层/CTK-0551_PVD涂层硬质合金：定义.md","output_path":"CTK0551-PVD涂层硬质合金：定义.md"}
+{"original_id":"CTK-0552","original_path":"09_刀具材料与涂层/CTK-0552_PVD涂层硬质合金：选择依据.md","output_path":"CTK0552-PVD涂层硬质合金：选择依据.md"}
+{"original_id":"CTK-0553","original_path":"09_刀具材料与涂层/CTK-0553_PVD涂层硬质合金：主要风险.md","output_path":"CTK0553-PVD涂层硬质合金：主要风险.md"}
+{"original_id":"CTK-0554","original_path":"09_刀具材料与涂层/CTK-0554_PVD涂层硬质合金：参数边界.md","output_path":"CTK0554-PVD涂层硬质合金：参数边界.md"}
+{"original_id":"CTK-0555","original_path":"09_刀具材料与涂层/CTK-0555_PVD涂层硬质合金：替代判断.md","output_path":"CTK0555-PVD涂层硬质合金：替代判断.md"}
+{"original_id":"CTK-0556","original_path":"09_刀具材料与涂层/CTK-0556_无涂层硬质合金：定义.md","output_path":"CTK0556-无涂层硬质合金：定义.md"}
+{"original_id":"CTK-0557","original_path":"09_刀具材料与涂层/CTK-0557_无涂层硬质合金：选择依据.md","output_path":"CTK0557-无涂层硬质合金：选择依据.md"}
+{"original_id":"CTK-0558","original_path":"09_刀具材料与涂层/CTK-0558_无涂层硬质合金：主要风险.md","output_path":"CTK0558-无涂层硬质合金：主要风险.md"}
+{"original_id":"CTK-0559","original_path":"09_刀具材料与涂层/CTK-0559_无涂层硬质合金：参数边界.md","output_path":"CTK0559-无涂层硬质合金：参数边界.md"}
+{"original_id":"CTK-0560","original_path":"09_刀具材料与涂层/CTK-0560_无涂层硬质合金：替代判断.md","output_path":"CTK0560-无涂层硬质合金：替代判断.md"}
+{"original_id":"CTK-0561","original_path":"09_刀具材料与涂层/CTK-0561_金属陶瓷：定义.md","output_path":"CTK0561-金属陶瓷：定义.md"}
+{"original_id":"CTK-0562","original_path":"09_刀具材料与涂层/CTK-0562_金属陶瓷：选择依据.md","output_path":"CTK0562-金属陶瓷：选择依据.md"}
+{"original_id":"CTK-0563","original_path":"09_刀具材料与涂层/CTK-0563_金属陶瓷：主要风险.md","output_path":"CTK0563-金属陶瓷：主要风险.md"}
+{"original_id":"CTK-0564","original_path":"09_刀具材料与涂层/CTK-0564_金属陶瓷：参数边界.md","output_path":"CTK0564-金属陶瓷：参数边界.md"}
+{"original_id":"CTK-0565","original_path":"09_刀具材料与涂层/CTK-0565_金属陶瓷：替代判断.md","output_path":"CTK0565-金属陶瓷：替代判断.md"}
+{"original_id":"CTK-0566","original_path":"09_刀具材料与涂层/CTK-0566_陶瓷刀片：定义.md","output_path":"CTK0566-陶瓷刀片：定义.md"}
+{"original_id":"CTK-0567","original_path":"09_刀具材料与涂层/CTK-0567_陶瓷刀片：选择依据.md","output_path":"CTK0567-陶瓷刀片：选择依据.md"}
+{"original_id":"CTK-0568","original_path":"09_刀具材料与涂层/CTK-0568_陶瓷刀片：主要风险.md","output_path":"CTK0568-陶瓷刀片：主要风险.md"}
+{"original_id":"CTK-0569","original_path":"09_刀具材料与涂层/CTK-0569_陶瓷刀片：参数边界.md","output_path":"CTK0569-陶瓷刀片：参数边界.md"}
+{"original_id":"CTK-0570","original_path":"09_刀具材料与涂层/CTK-0570_陶瓷刀片：替代判断.md","output_path":"CTK0570-陶瓷刀片：替代判断.md"}
+{"original_id":"CTK-0571","original_path":"09_刀具材料与涂层/CTK-0571_PCBN刀片：定义.md","output_path":"CTK0571-PCBN刀片：定义.md"}
+{"original_id":"CTK-0572","original_path":"09_刀具材料与涂层/CTK-0572_PCBN刀片：选择依据.md","output_path":"CTK0572-PCBN刀片：选择依据.md"}
+{"original_id":"CTK-0573","original_path":"09_刀具材料与涂层/CTK-0573_PCBN刀片：主要风险.md","output_path":"CTK0573-PCBN刀片：主要风险.md"}
+{"original_id":"CTK-0574","original_path":"09_刀具材料与涂层/CTK-0574_PCBN刀片：参数边界.md","output_path":"CTK0574-PCBN刀片：参数边界.md"}
+{"original_id":"CTK-0575","original_path":"09_刀具材料与涂层/CTK-0575_PCBN刀片：替代判断.md","output_path":"CTK0575-PCBN刀片：替代判断.md"}
+{"original_id":"CTK-0576","original_path":"09_刀具材料与涂层/CTK-0576_PCD刀片：定义.md","output_path":"CTK0576-PCD刀片：定义.md"}
+{"original_id":"CTK-0577","original_path":"09_刀具材料与涂层/CTK-0577_PCD刀片：选择依据.md","output_path":"CTK0577-PCD刀片：选择依据.md"}
+{"original_id":"CTK-0578","original_path":"09_刀具材料与涂层/CTK-0578_PCD刀片：主要风险.md","output_path":"CTK0578-PCD刀片：主要风险.md"}
+{"original_id":"CTK-0579","original_path":"09_刀具材料与涂层/CTK-0579_PCD刀片：参数边界.md","output_path":"CTK0579-PCD刀片：参数边界.md"}
+{"original_id":"CTK-0580","original_path":"09_刀具材料与涂层/CTK-0580_PCD刀片：替代判断.md","output_path":"CTK0580-PCD刀片：替代判断.md"}
+{"original_id":"CTK-0581","original_path":"10_材料与工序组合/CTK-0581_ISO_P钢精车如何初选刀片.md","output_path":"CTK0581-ISO P钢精车如何初选刀片.md"}
+{"original_id":"CTK-0582","original_path":"10_材料与工序组合/CTK-0582_ISO_P钢精车参数如何调整.md","output_path":"CTK0582-ISO P钢精车参数如何调整.md"}
+{"original_id":"CTK-0583","original_path":"10_材料与工序组合/CTK-0583_ISO_P钢粗车如何初选刀片.md","output_path":"CTK0583-ISO P钢粗车如何初选刀片.md"}
+{"original_id":"CTK-0584","original_path":"10_材料与工序组合/CTK-0584_ISO_P钢粗车参数如何调整.md","output_path":"CTK0584-ISO P钢粗车参数如何调整.md"}
+{"original_id":"CTK-0585","original_path":"10_材料与工序组合/CTK-0585_ISO_P钢可转位铣削如何初选刀片.md","output_path":"CTK0585-ISO P钢可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0586","original_path":"10_材料与工序组合/CTK-0586_ISO_P钢可转位铣削参数如何调整.md","output_path":"CTK0586-ISO P钢可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0587","original_path":"10_材料与工序组合/CTK-0587_ISO_P钢切槽切断如何初选刀片.md","output_path":"CTK0587-ISO P钢切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0588","original_path":"10_材料与工序组合/CTK-0588_ISO_P钢切槽切断参数如何调整.md","output_path":"CTK0588-ISO P钢切槽切断参数如何调整.md"}
+{"original_id":"CTK-0589","original_path":"10_材料与工序组合/CTK-0589_ISO_P钢可转位钻削如何初选刀片.md","output_path":"CTK0589-ISO P钢可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0590","original_path":"10_材料与工序组合/CTK-0590_ISO_P钢可转位钻削参数如何调整.md","output_path":"CTK0590-ISO P钢可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0591","original_path":"10_材料与工序组合/CTK-0591_ISO_M不锈钢精车如何初选刀片.md","output_path":"CTK0591-ISO M不锈钢精车如何初选刀片.md"}
+{"original_id":"CTK-0592","original_path":"10_材料与工序组合/CTK-0592_ISO_M不锈钢精车参数如何调整.md","output_path":"CTK0592-ISO M不锈钢精车参数如何调整.md"}
+{"original_id":"CTK-0593","original_path":"10_材料与工序组合/CTK-0593_ISO_M不锈钢粗车如何初选刀片.md","output_path":"CTK0593-ISO M不锈钢粗车如何初选刀片.md"}
+{"original_id":"CTK-0594","original_path":"10_材料与工序组合/CTK-0594_ISO_M不锈钢粗车参数如何调整.md","output_path":"CTK0594-ISO M不锈钢粗车参数如何调整.md"}
+{"original_id":"CTK-0595","original_path":"10_材料与工序组合/CTK-0595_ISO_M不锈钢可转位铣削如何初选刀片.md","output_path":"CTK0595-ISO M不锈钢可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0596","original_path":"10_材料与工序组合/CTK-0596_ISO_M不锈钢可转位铣削参数如何调整.md","output_path":"CTK0596-ISO M不锈钢可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0597","original_path":"10_材料与工序组合/CTK-0597_ISO_M不锈钢切槽切断如何初选刀片.md","output_path":"CTK0597-ISO M不锈钢切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0598","original_path":"10_材料与工序组合/CTK-0598_ISO_M不锈钢切槽切断参数如何调整.md","output_path":"CTK0598-ISO M不锈钢切槽切断参数如何调整.md"}
+{"original_id":"CTK-0599","original_path":"10_材料与工序组合/CTK-0599_ISO_M不锈钢可转位钻削如何初选刀片.md","output_path":"CTK0599-ISO M不锈钢可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0600","original_path":"10_材料与工序组合/CTK-0600_ISO_M不锈钢可转位钻削参数如何调整.md","output_path":"CTK0600-ISO M不锈钢可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0601","original_path":"10_材料与工序组合/CTK-0601_ISO_K铸铁精车如何初选刀片.md","output_path":"CTK0601-ISO K铸铁精车如何初选刀片.md"}
+{"original_id":"CTK-0602","original_path":"10_材料与工序组合/CTK-0602_ISO_K铸铁精车参数如何调整.md","output_path":"CTK0602-ISO K铸铁精车参数如何调整.md"}
+{"original_id":"CTK-0603","original_path":"10_材料与工序组合/CTK-0603_ISO_K铸铁粗车如何初选刀片.md","output_path":"CTK0603-ISO K铸铁粗车如何初选刀片.md"}
+{"original_id":"CTK-0604","original_path":"10_材料与工序组合/CTK-0604_ISO_K铸铁粗车参数如何调整.md","output_path":"CTK0604-ISO K铸铁粗车参数如何调整.md"}
+{"original_id":"CTK-0605","original_path":"10_材料与工序组合/CTK-0605_ISO_K铸铁可转位铣削如何初选刀片.md","output_path":"CTK0605-ISO K铸铁可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0606","original_path":"10_材料与工序组合/CTK-0606_ISO_K铸铁可转位铣削参数如何调整.md","output_path":"CTK0606-ISO K铸铁可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0607","original_path":"10_材料与工序组合/CTK-0607_ISO_K铸铁切槽切断如何初选刀片.md","output_path":"CTK0607-ISO K铸铁切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0608","original_path":"10_材料与工序组合/CTK-0608_ISO_K铸铁切槽切断参数如何调整.md","output_path":"CTK0608-ISO K铸铁切槽切断参数如何调整.md"}
+{"original_id":"CTK-0609","original_path":"10_材料与工序组合/CTK-0609_ISO_K铸铁可转位钻削如何初选刀片.md","output_path":"CTK0609-ISO K铸铁可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0610","original_path":"10_材料与工序组合/CTK-0610_ISO_K铸铁可转位钻削参数如何调整.md","output_path":"CTK0610-ISO K铸铁可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0611","original_path":"10_材料与工序组合/CTK-0611_ISO_N有色材料精车如何初选刀片.md","output_path":"CTK0611-ISO N有色材料精车如何初选刀片.md"}
+{"original_id":"CTK-0612","original_path":"10_材料与工序组合/CTK-0612_ISO_N有色材料精车参数如何调整.md","output_path":"CTK0612-ISO N有色材料精车参数如何调整.md"}
+{"original_id":"CTK-0613","original_path":"10_材料与工序组合/CTK-0613_ISO_N有色材料粗车如何初选刀片.md","output_path":"CTK0613-ISO N有色材料粗车如何初选刀片.md"}
+{"original_id":"CTK-0614","original_path":"10_材料与工序组合/CTK-0614_ISO_N有色材料粗车参数如何调整.md","output_path":"CTK0614-ISO N有色材料粗车参数如何调整.md"}
+{"original_id":"CTK-0615","original_path":"10_材料与工序组合/CTK-0615_ISO_N有色材料可转位铣削如何初选刀片.md","output_path":"CTK0615-ISO N有色材料可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0616","original_path":"10_材料与工序组合/CTK-0616_ISO_N有色材料可转位铣削参数如何调整.md","output_path":"CTK0616-ISO N有色材料可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0617","original_path":"10_材料与工序组合/CTK-0617_ISO_N有色材料切槽切断如何初选刀片.md","output_path":"CTK0617-ISO N有色材料切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0618","original_path":"10_材料与工序组合/CTK-0618_ISO_N有色材料切槽切断参数如何调整.md","output_path":"CTK0618-ISO N有色材料切槽切断参数如何调整.md"}
+{"original_id":"CTK-0619","original_path":"10_材料与工序组合/CTK-0619_ISO_N有色材料可转位钻削如何初选刀片.md","output_path":"CTK0619-ISO N有色材料可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0620","original_path":"10_材料与工序组合/CTK-0620_ISO_N有色材料可转位钻削参数如何调整.md","output_path":"CTK0620-ISO N有色材料可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0621","original_path":"10_材料与工序组合/CTK-0621_ISO_S高温合金与钛合金精车如何初选刀片.md","output_path":"CTK0621-ISO S高温合金与钛合金精车如何初选刀片.md"}
+{"original_id":"CTK-0622","original_path":"10_材料与工序组合/CTK-0622_ISO_S高温合金与钛合金精车参数如何调整.md","output_path":"CTK0622-ISO S高温合金与钛合金精车参数如何调整.md"}
+{"original_id":"CTK-0623","original_path":"10_材料与工序组合/CTK-0623_ISO_S高温合金与钛合金粗车如何初选刀片.md","output_path":"CTK0623-ISO S高温合金与钛合金粗车如何初选刀片.md"}
+{"original_id":"CTK-0624","original_path":"10_材料与工序组合/CTK-0624_ISO_S高温合金与钛合金粗车参数如何调整.md","output_path":"CTK0624-ISO S高温合金与钛合金粗车参数如何调整.md"}
+{"original_id":"CTK-0625","original_path":"10_材料与工序组合/CTK-0625_ISO_S高温合金与钛合金可转位铣削如何初选刀片.md","output_path":"CTK0625-ISO S高温合金与钛合金可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0626","original_path":"10_材料与工序组合/CTK-0626_ISO_S高温合金与钛合金可转位铣削参数如何调整.md","output_path":"CTK0626-ISO S高温合金与钛合金可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0627","original_path":"10_材料与工序组合/CTK-0627_ISO_S高温合金与钛合金切槽切断如何初选刀片.md","output_path":"CTK0627-ISO S高温合金与钛合金切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0628","original_path":"10_材料与工序组合/CTK-0628_ISO_S高温合金与钛合金切槽切断参数如何调整.md","output_path":"CTK0628-ISO S高温合金与钛合金切槽切断参数如何调整.md"}
+{"original_id":"CTK-0629","original_path":"10_材料与工序组合/CTK-0629_ISO_S高温合金与钛合金可转位钻削如何初选刀片.md","output_path":"CTK0629-ISO S高温合金与钛合金可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0630","original_path":"10_材料与工序组合/CTK-0630_ISO_S高温合金与钛合金可转位钻削参数如何调整.md","output_path":"CTK0630-ISO S高温合金与钛合金可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0631","original_path":"10_材料与工序组合/CTK-0631_ISO_H淬硬材料精车如何初选刀片.md","output_path":"CTK0631-ISO H淬硬材料精车如何初选刀片.md"}
+{"original_id":"CTK-0632","original_path":"10_材料与工序组合/CTK-0632_ISO_H淬硬材料精车参数如何调整.md","output_path":"CTK0632-ISO H淬硬材料精车参数如何调整.md"}
+{"original_id":"CTK-0633","original_path":"10_材料与工序组合/CTK-0633_ISO_H淬硬材料粗车如何初选刀片.md","output_path":"CTK0633-ISO H淬硬材料粗车如何初选刀片.md"}
+{"original_id":"CTK-0634","original_path":"10_材料与工序组合/CTK-0634_ISO_H淬硬材料粗车参数如何调整.md","output_path":"CTK0634-ISO H淬硬材料粗车参数如何调整.md"}
+{"original_id":"CTK-0635","original_path":"10_材料与工序组合/CTK-0635_ISO_H淬硬材料可转位铣削如何初选刀片.md","output_path":"CTK0635-ISO H淬硬材料可转位铣削如何初选刀片.md"}
+{"original_id":"CTK-0636","original_path":"10_材料与工序组合/CTK-0636_ISO_H淬硬材料可转位铣削参数如何调整.md","output_path":"CTK0636-ISO H淬硬材料可转位铣削参数如何调整.md"}
+{"original_id":"CTK-0637","original_path":"10_材料与工序组合/CTK-0637_ISO_H淬硬材料切槽切断如何初选刀片.md","output_path":"CTK0637-ISO H淬硬材料切槽切断如何初选刀片.md"}
+{"original_id":"CTK-0638","original_path":"10_材料与工序组合/CTK-0638_ISO_H淬硬材料切槽切断参数如何调整.md","output_path":"CTK0638-ISO H淬硬材料切槽切断参数如何调整.md"}
+{"original_id":"CTK-0639","original_path":"10_材料与工序组合/CTK-0639_ISO_H淬硬材料可转位钻削如何初选刀片.md","output_path":"CTK0639-ISO H淬硬材料可转位钻削如何初选刀片.md"}
+{"original_id":"CTK-0640","original_path":"10_材料与工序组合/CTK-0640_ISO_H淬硬材料可转位钻削参数如何调整.md","output_path":"CTK0640-ISO H淬硬材料可转位钻削参数如何调整.md"}
+{"original_id":"CTK-0641","original_path":"11_兼容性与安装检查/CTK-0641_刀片刀杆兼容性检查：刀片形状.md","output_path":"CTK0641-刀片刀杆兼容性检查：刀片形状.md"}
+{"original_id":"CTK-0642","original_path":"11_兼容性与安装检查/CTK-0642_刀片刀杆兼容性检查：刀片后角.md","output_path":"CTK0642-刀片刀杆兼容性检查：刀片后角.md"}
+{"original_id":"CTK-0643","original_path":"11_兼容性与安装检查/CTK-0643_刀片刀杆兼容性检查：内切圆尺寸.md","output_path":"CTK0643-刀片刀杆兼容性检查：内切圆尺寸.md"}
+{"original_id":"CTK-0644","original_path":"11_兼容性与安装检查/CTK-0644_刀片刀杆兼容性检查：刀片厚度.md","output_path":"CTK0644-刀片刀杆兼容性检查：刀片厚度.md"}
+{"original_id":"CTK-0645","original_path":"11_兼容性与安装检查/CTK-0645_刀片刀杆兼容性检查：刀尖半径.md","output_path":"CTK0645-刀片刀杆兼容性检查：刀尖半径.md"}
+{"original_id":"CTK-0646","original_path":"11_兼容性与安装检查/CTK-0646_刀片刀杆兼容性检查：安装孔.md","output_path":"CTK0646-刀片刀杆兼容性检查：安装孔.md"}
+{"original_id":"CTK-0647","original_path":"11_兼容性与安装检查/CTK-0647_刀片刀杆兼容性检查：断屑结构.md","output_path":"CTK0647-刀片刀杆兼容性检查：断屑结构.md"}
+{"original_id":"CTK-0648","original_path":"11_兼容性与安装检查/CTK-0648_刀片刀杆兼容性检查：左右手方向.md","output_path":"CTK0648-刀片刀杆兼容性检查：左右手方向.md"}
+{"original_id":"CTK-0649","original_path":"11_兼容性与安装检查/CTK-0649_刀片刀杆兼容性检查：刀杆主偏角.md","output_path":"CTK0649-刀片刀杆兼容性检查：刀杆主偏角.md"}
+{"original_id":"CTK-0650","original_path":"11_兼容性与安装检查/CTK-0650_刀片刀杆兼容性检查：刀杆柄部尺寸.md","output_path":"CTK0650-刀片刀杆兼容性检查：刀杆柄部尺寸.md"}
+{"original_id":"CTK-0651","original_path":"11_兼容性与安装检查/CTK-0651_刀片刀杆兼容性检查：最小镗孔直径.md","output_path":"CTK0651-刀片刀杆兼容性检查：最小镗孔直径.md"}
+{"original_id":"CTK-0652","original_path":"11_兼容性与安装检查/CTK-0652_刀片刀杆兼容性检查：最大加工深度.md","output_path":"CTK0652-刀片刀杆兼容性检查：最大加工深度.md"}
+{"original_id":"CTK-0653","original_path":"11_兼容性与安装检查/CTK-0653_刀片刀杆兼容性检查：螺钉规格.md","output_path":"CTK0653-刀片刀杆兼容性检查：螺钉规格.md"}
+{"original_id":"CTK-0654","original_path":"11_兼容性与安装检查/CTK-0654_刀片刀杆兼容性检查：压板与楔块.md","output_path":"CTK0654-刀片刀杆兼容性检查：压板与楔块.md"}
+{"original_id":"CTK-0655","original_path":"11_兼容性与安装检查/CTK-0655_刀片刀杆兼容性检查：刀垫.md","output_path":"CTK0655-刀片刀杆兼容性检查：刀垫.md"}
+{"original_id":"CTK-0656","original_path":"11_兼容性与安装检查/CTK-0656_刀片刀杆兼容性检查：扭矩要求.md","output_path":"CTK0656-刀片刀杆兼容性检查：扭矩要求.md"}
+{"original_id":"CTK-0657","original_path":"11_兼容性与安装检查/CTK-0657_刀片刀杆兼容性检查：铣刀片定位面.md","output_path":"CTK0657-刀片刀杆兼容性检查：铣刀片定位面.md"}
+{"original_id":"CTK-0658","original_path":"11_兼容性与安装检查/CTK-0658_刀片刀杆兼容性检查：铣刀片有效刃数.md","output_path":"CTK0658-刀片刀杆兼容性检查：铣刀片有效刃数.md"}
+{"original_id":"CTK-0659","original_path":"11_兼容性与安装检查/CTK-0659_刀片刀杆兼容性检查：钻削中心刃.md","output_path":"CTK0659-刀片刀杆兼容性检查：钻削中心刃.md"}
+{"original_id":"CTK-0660","original_path":"11_兼容性与安装检查/CTK-0660_刀片刀杆兼容性检查：端面槽径范围.md","output_path":"CTK0660-刀片刀杆兼容性检查：端面槽径范围.md"}
+{"original_id":"CTK-0661","original_path":"11_兼容性与安装检查/CTK-0661_刀片刀杆兼容性检查：螺纹牙型.md","output_path":"CTK0661-刀片刀杆兼容性检查：螺纹牙型.md"}
+{"original_id":"CTK-0662","original_path":"11_兼容性与安装检查/CTK-0662_刀片刀杆兼容性检查：螺纹螺距.md","output_path":"CTK0662-刀片刀杆兼容性检查：螺纹螺距.md"}
+{"original_id":"CTK-0663","original_path":"11_兼容性与安装检查/CTK-0663_刀片刀杆兼容性检查：螺纹内外刀片.md","output_path":"CTK0663-刀片刀杆兼容性检查：螺纹内外刀片.md"}
+{"original_id":"CTK-0664","original_path":"11_兼容性与安装检查/CTK-0664_刀片刀杆兼容性检查：切槽宽度.md","output_path":"CTK0664-刀片刀杆兼容性检查：切槽宽度.md"}
+{"original_id":"CTK-0665","original_path":"11_兼容性与安装检查/CTK-0665_刀片刀杆兼容性检查：冷却接口.md","output_path":"CTK0665-刀片刀杆兼容性检查：冷却接口.md"}
+{"original_id":"CTK-0666","original_path":"11_兼容性与安装检查/CTK-0666_刀片刀杆兼容性检查：刀片牌号.md","output_path":"CTK0666-刀片刀杆兼容性检查：刀片牌号.md"}
+{"original_id":"CTK-0667","original_path":"11_兼容性与安装检查/CTK-0667_刀片刀杆兼容性检查：刀片槽型.md","output_path":"CTK0667-刀片刀杆兼容性检查：刀片槽型.md"}
+{"original_id":"CTK-0668","original_path":"11_兼容性与安装检查/CTK-0668_刀片刀杆兼容性检查：公制英制.md","output_path":"CTK0668-刀片刀杆兼容性检查：公制英制.md"}
+{"original_id":"CTK-0669","original_path":"11_兼容性与安装检查/CTK-0669_刀片刀杆兼容性检查：旧新型号.md","output_path":"CTK0669-刀片刀杆兼容性检查：旧新型号.md"}
+{"original_id":"CTK-0670","original_path":"11_兼容性与安装检查/CTK-0670_刀片刀杆兼容性检查：跨品牌替代.md","output_path":"CTK0670-刀片刀杆兼容性检查：跨品牌替代.md"}
+{"original_id":"CTK-0671","original_path":"12_测量与参数验证/CTK-0671_测量刀具悬伸.md","output_path":"CTK0671-测量刀具悬伸.md"}
+{"original_id":"CTK-0672","original_path":"12_测量与参数验证/CTK-0672_测量刀具跳动.md","output_path":"CTK0672-测量刀具跳动.md"}
+{"original_id":"CTK-0673","original_path":"12_测量与参数验证/CTK-0673_检查车刀中心高.md","output_path":"CTK0673-检查车刀中心高.md"}
+{"original_id":"CTK-0674","original_path":"12_测量与参数验证/CTK-0674_检查刀片座清洁.md","output_path":"CTK0674-检查刀片座清洁.md"}
+{"original_id":"CTK-0675","original_path":"12_测量与参数验证/CTK-0675_检查螺钉状态.md","output_path":"CTK0675-检查螺钉状态.md"}
+{"original_id":"CTK-0676","original_path":"12_测量与参数验证/CTK-0676_检查刀垫.md","output_path":"CTK0676-检查刀垫.md"}
+{"original_id":"CTK-0677","original_path":"12_测量与参数验证/CTK-0677_记录工件硬度.md","output_path":"CTK0677-记录工件硬度.md"}
+{"original_id":"CTK-0678","original_path":"12_测量与参数验证/CTK-0678_记录材料牌号.md","output_path":"CTK0678-记录材料牌号.md"}
+{"original_id":"CTK-0679","original_path":"12_测量与参数验证/CTK-0679_记录加工余量.md","output_path":"CTK0679-记录加工余量.md"}
+{"original_id":"CTK-0680","original_path":"12_测量与参数验证/CTK-0680_记录表面状态.md","output_path":"CTK0680-记录表面状态.md"}
+{"original_id":"CTK-0681","original_path":"12_测量与参数验证/CTK-0681_观察切屑颜色.md","output_path":"CTK0681-观察切屑颜色.md"}
+{"original_id":"CTK-0682","original_path":"12_测量与参数验证/CTK-0682_观察切屑形状.md","output_path":"CTK0682-观察切屑形状.md"}
+{"original_id":"CTK-0683","original_path":"12_测量与参数验证/CTK-0683_测量后刀面磨损.md","output_path":"CTK0683-测量后刀面磨损.md"}
+{"original_id":"CTK-0684","original_path":"12_测量与参数验证/CTK-0684_记录崩刃时机.md","output_path":"CTK0684-记录崩刃时机.md"}
+{"original_id":"CTK-0685","original_path":"12_测量与参数验证/CTK-0685_记录刀具寿命.md","output_path":"CTK0685-记录刀具寿命.md"}
+{"original_id":"CTK-0686","original_path":"12_测量与参数验证/CTK-0686_记录冷却状态.md","output_path":"CTK0686-记录冷却状态.md"}
+{"original_id":"CTK-0687","original_path":"12_测量与参数验证/CTK-0687_核对主轴转速.md","output_path":"CTK0687-核对主轴转速.md"}
+{"original_id":"CTK-0688","original_path":"12_测量与参数验证/CTK-0688_核对进给速度.md","output_path":"CTK0688-核对进给速度.md"}
+{"original_id":"CTK-0689","original_path":"12_测量与参数验证/CTK-0689_核对有效齿数.md","output_path":"CTK0689-核对有效齿数.md"}
+{"original_id":"CTK-0690","original_path":"12_测量与参数验证/CTK-0690_核对切削功率.md","output_path":"CTK0690-核对切削功率.md"}
+{"original_id":"CTK-0691","original_path":"12_测量与参数验证/CTK-0691_核对低速扭矩.md","output_path":"CTK0691-核对低速扭矩.md"}
+{"original_id":"CTK-0692","original_path":"12_测量与参数验证/CTK-0692_区分径向与轴向切深.md","output_path":"CTK0692-区分径向与轴向切深.md"}
+{"original_id":"CTK-0693","original_path":"12_测量与参数验证/CTK-0693_统一参数单位.md","output_path":"CTK0693-统一参数单位.md"}
+{"original_id":"CTK-0694","original_path":"12_测量与参数验证/CTK-0694_建立试切基线.md","output_path":"CTK0694-建立试切基线.md"}
+{"original_id":"CTK-0695","original_path":"12_测量与参数验证/CTK-0695_一次调整一个变量.md","output_path":"CTK0695-一次调整一个变量.md"}
+{"original_id":"CTK-0696","original_path":"12_测量与参数验证/CTK-0696_设置停机条件.md","output_path":"CTK0696-设置停机条件.md"}
+{"original_id":"CTK-0697","original_path":"12_测量与参数验证/CTK-0697_区分推荐值与上限.md","output_path":"CTK0697-区分推荐值与上限.md"}
+{"original_id":"CTK-0698","original_path":"12_测量与参数验证/CTK-0698_保留资料版本.md","output_path":"CTK0698-保留资料版本.md"}
+{"original_id":"CTK-0699","original_path":"12_测量与参数验证/CTK-0699_保留原始参数表.md","output_path":"CTK0699-保留原始参数表.md"}
+{"original_id":"CTK-0700","original_path":"12_测量与参数验证/CTK-0700_人工复核参数表.md","output_path":"CTK0700-人工复核参数表.md"}

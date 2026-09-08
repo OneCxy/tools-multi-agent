@@ -1,0 +1,40 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node.js and builds
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Logs and runtime data
+*.log
+*.log.*
+backend/app/logs/
+backend/app/user_memories/
+
+# Local vector and test databases
+backend/knowledge_new/chroma_cnc_tools/
+backend/knowledge_new/data/cutting_tool_admin/chroma_probe/
+backend/knowledge_new/data/cutting_tool_admin/live_test_results.json
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.swp
+
